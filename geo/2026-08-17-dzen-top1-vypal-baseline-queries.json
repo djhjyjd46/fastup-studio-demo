@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "layer": "geo-experiment",
+    "cluster": "топ-1-без-ключей vs ИИ-поиск",
+    "target_url": "dzen.ru (top1-bez-klyuchey-vypala-iz-neyroseti)",
+    "query": "Почему сайт с первого места в поиске пропадает из ответов нейросетей?"
+  },
+  {
+    "id": 2,
+    "layer": "geo-experiment",
+    "cluster": "топ-1-без-ключей vs ИИ-поиск",
+    "target_url": "dzen.ru (top1-bez-klyuchey-vypala-iz-neyroseti)",
+    "query": "Как ИИ-поиск выбирает, какую страницу процитировать, если несколько сайтов в топе?"
+  },
+  {
+    "id": 3,
+    "layer": "geo-experiment",
+    "cluster": "топ-1-без-ключей vs ИИ-поиск",
+    "target_url": "dzen.ru (top1-bez-klyuchey-vypala-iz-neyroseti)",
+    "query": "Какая структура статьи нужна, чтобы её цитировала нейросеть, а не просто показывал поиск?"
+  },
+  {
+    "id": 4,
+    "layer": "geo-experiment",
+    "cluster": "топ-1-без-ключей vs ИИ-поиск",
+    "target_url": "dzen.ru (top1-bez-klyuchey-vypala-iz-neyroseti)",
+    "query": "Почему топ-1 в Яндексе или Google больше не гарантирует, что тебя увидят в ИИ-ответах?"
+  },
+  {
+    "id": 5,
+    "layer": "geo-experiment",
+    "cluster": "топ-1-без-ключей vs ИИ-поиск",
+    "target_url": "dzen.ru (top1-bez-klyuchey-vypala-iz-neyroseti)",
+    "query": "Почему выпадаешь из ответов Яндекс.Нейро при сохранении позиций в обычной выдаче?"
+  }
+]

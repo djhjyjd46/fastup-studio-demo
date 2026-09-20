@@ -1,0 +1,55 @@
+{
+ "total_queries": 1432,
+ "total_volume": 123526,
+ "clusters": [
+  {
+   "intent": "Технология строительства",
+   "queries": 705,
+   "volume": 63711,
+   "share": 51.6,
+   "prompts": 4
+  },
+  {
+   "intent": "Выбор подрядчика",
+   "queries": 689,
+   "volume": 49931,
+   "share": 40.4,
+   "prompts": 11
+  },
+  {
+   "intent": "Цена и стоимость",
+   "queries": 212,
+   "volume": 23744,
+   "share": 19.2,
+   "prompts": 2
+  },
+  {
+   "intent": "География",
+   "queries": 137,
+   "volume": 17027,
+   "share": 13.8,
+   "prompts": 11
+  },
+  {
+   "intent": "Проект и планировка",
+   "queries": 87,
+   "volume": 3674,
+   "share": 3.0,
+   "prompts": 2
+  },
+  {
+   "intent": "Доверие и отзывы",
+   "queries": 19,
+   "volume": 985,
+   "share": 0.8,
+   "prompts": 1
+  },
+  {
+   "intent": "Прочее / общие формулировки",
+   "queries": 6,
+   "volume": 602,
+   "share": 0.5,
+   "prompts": 0
+  }
+ ]
+}

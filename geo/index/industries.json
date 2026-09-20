@@ -1,0 +1,54 @@
+{
+  "_comment": "Реестр отраслей индекса. Хаб /indeks-vidimosti/ строится отсюда: показывает таблицу отрасли с featured=true и список всех остальных со статусами. Добавление отрасли = строка здесь, вёрстку не трогать.",
+  "industries": [
+    {
+      "slug": "zagorodnoe-stroitelstvo",
+      "title": "Загородное строительство",
+      "region": "Минск и область",
+      "status": "ready",
+      "featured": true,
+      "measured_at": "2026-08-22",
+      "next_at": "2026-09-22"
+    },
+    {
+      "slug": "buhgalterskiy-autsors",
+      "title": "Бухгалтерский аутсорсинг",
+      "region": "Минск",
+      "status": "planned",
+      "featured": false,
+      "planned_at": "2026-10-25"
+    },
+    {
+      "slug": "remont-kvartir",
+      "title": "Ремонт квартир под ключ",
+      "region": "Минск и область",
+      "status": "planned",
+      "featured": false,
+      "planned_at": "2026-09-22"
+    },
+    {
+      "slug": "ved-logistika",
+      "title": "ВЭД и таможенное оформление",
+      "region": "Беларусь",
+      "status": "planned",
+      "featured": false,
+      "planned_at": "2026-10-22"
+    },
+    {
+      "slug": "stomatologii",
+      "title": "Стоматологии и имплантация",
+      "region": "Минск",
+      "status": "planned",
+      "featured": false,
+      "planned_at": "2026-11-22"
+    },
+    {
+      "slug": "avtodilery",
+      "title": "Автодилеры и автосервис",
+      "region": "Минск",
+      "status": "planned",
+      "featured": false,
+      "planned_at": "2026-11-22"
+    }
+  ]
+}

@@ -1,0 +1,490 @@
+{
+  "GEO_AI_SEARCH": [
+    {
+      "intent": "что такое geo продвижение сайтов в нейросетях простыми словами",
+      "max_sim": 0.7175,
+      "avg_top3": 0.7126,
+      "status": "STRONG",
+      "best_source": "blog/seo-prodvizhenie.md",
+      "best_text": "### Q: Почему важно совмещать классическое SEO с продвижением в нейросетях (GEO)? Растущая доля пользователей ищет товар"
+    },
+    {
+      "intent": "как вывести компанию в рекомендации chatgpt search и яндекс нейро",
+      "max_sim": 0.696,
+      "avg_top3": 0.6743,
+      "status": "STRONG",
+      "best_source": "cases/fastup-geo-case-study-from-zero-to-top1.md",
+      "best_text": "--- date: 2026-08-16 tags: [cases, geo, fastup-gas, entity-seo, pagespeed, before-after] client: \"FastUp.by (Собственный"
+    },
+    {
+      "intent": "почему нейросети путают бренд с конкурентами и выдают галлюцинации",
+      "max_sim": 0.5786,
+      "avg_top3": 0.56,
+      "status": "GAP",
+      "best_source": "blog/kak-proverit-vidit-li-neyroset-sayt.md",
+      "best_text": "пользователю она его не отдаёт. ## Что с этим делать дальше Если по вашему запросу нейросеть называет конкурентов, а вас"
+    },
+    {
+      "intent": "как настроить цифровой паспорт компании и schema org json ld для ии",
+      "max_sim": 0.6385,
+      "avg_top3": 0.6194,
+      "status": "MODERATE",
+      "best_source": "cases/fastup-geo-case-study-from-zero-to-top1.md",
+      "best_text": "| | **$NVI_{comm}$ (Видимость коммерции)** | 0.0% | 0.0% | **13.9%** *(Яндекс: 41.7% Топ-1)* | | **$PCL$ (Связка Спикер "
+    },
+    {
+      "intent": "как измерить видимость сайта в генеративном поиске метрики nvi cbk pks",
+      "max_sim": 0.694,
+      "avg_top3": 0.6455,
+      "status": "MODERATE",
+      "best_source": "blog/kak-proverit-vidit-li-neyroset-sayt.md",
+      "best_text": "--- title: \"Как я проверяю, видит ли нейросеть сайт клиента: три инструмента и метод руками, без платных сервисов | Fast"
+    },
+    {
+      "intent": "в чем разница между seo aeo и geo оптимизацией",
+      "max_sim": 0.6289,
+      "avg_top3": 0.6082,
+      "status": "MODERATE",
+      "best_source": "blog/seo-prodvizhenie.md",
+      "best_text": "SEO + GEO (FastUp) Почему связка классического поиска и оптимизации под нейросети дает двойной приток клиентов ### Понят"
+    },
+    {
+      "intent": "почему сайт на первом месте в поиске не попадает в ответы нейросетей",
+      "max_sim": 0.6663,
+      "avg_top3": 0.6607,
+      "status": "MODERATE",
+      "best_source": "blog/kak-proverit-vidit-li-neyroset-sayt.md",
+      "best_text": "пользователю она его не отдаёт. ## Что с этим делать дальше Если по вашему запросу нейросеть называет конкурентов, а вас"
+    },
+    {
+      "intent": "нужно ли блокировать краулеры нейросетей gptbot claudebot в robots txt",
+      "max_sim": 0.7581,
+      "avg_top3": 0.7191,
+      "status": "STRONG",
+      "best_source": "blog/geo-ne-pro-blokirovki-botov-chto-realno-reshaet-uvidit-li-neyroset-vash-biznes.md",
+      "best_text": "ветку! P.S. А если вам нужен детальный аудит доступности и современное GEO-продвижение под нейросети — заглядывайте к на"
+    },
+    {
+      "intent": "как самостоятельно бесплатно проверить видит ли нейросеть сайт",
+      "max_sim": 0.8913,
+      "avg_top3": 0.7494,
+      "status": "STRONG",
+      "best_source": "blog/kak-proverit-vidit-li-neyroset-sayt.md",
+      "best_text": "--- title: \"Как я проверяю, видит ли нейросеть сайт клиента: три инструмента и метод руками, без платных сервисов | Fast"
+    },
+    {
+      "intent": "стоимость geo аудита и ежемесячного ведения в нейросетях",
+      "max_sim": 0.6929,
+      "avg_top3": 0.6498,
+      "status": "MODERATE",
+      "best_source": "blog/seo-prodvizhenie.md",
+      "best_text": "000 BYN, далее регулярное сопровождение от 800 BYN/мес. от 1 000 BYN Глубокий технический аудит, исправление ошибок вёрс"
+    },
+    {
+      "intent": "открытый стандарт аудита видимости бизнеса fastup gas на pypi github",
+      "max_sim": 0.6199,
+      "avg_top3": 0.6047,
+      "status": "MODERATE",
+      "best_source": "blog/kak-proverit-vidit-li-neyroset-sayt.md",
+      "best_text": "--- title: \"Как я проверяю, видит ли нейросеть сайт клиента: три инструмента и метод руками, без платных сервисов | Fast"
+    },
+    {
+      "intent": "как связать компанию с объектом wikidata и профилями sameas для llm",
+      "max_sim": 0.6717,
+      "avg_top3": 0.6241,
+      "status": "MODERATE",
+      "best_source": "cases/fastup-geo-case-study-from-zero-to-top1.md",
+      "best_text": "| | **$NVI_{comm}$ (Видимость коммерции)** | 0.0% | 0.0% | **13.9%** *(Яндекс: 41.7% Топ-1)* | | **$PCL$ (Связка Спикер "
+    },
+    {
+      "intent": "почему цитирование статей блога не дает заявок на коммерческие услуги в ии",
+      "max_sim": 0.5856,
+      "avg_top3": 0.5826,
+      "status": "GAP",
+      "best_source": "blog/strategiya-entity-first-seo-kak-strukturirovannye-dannye-i-semanticheskoe-yadro-povyshayut-vidimost-v-2024.md",
+      "best_text": "на поисковые запросы (Google AI Overviews, DeepSeek, Perplexity), пользуются тем же принципом: им проще процитировать ис"
+    },
+    {
+      "intent": "как подготовить сайт к поиску будущего generative engine optimization",
+      "max_sim": 0.698,
+      "avg_top3": 0.6735,
+      "status": "STRONG",
+      "best_source": "blog/kak-ya-napisal-svoi-instrumenty-na-chistom-php-bez-bd-i-s-nulya-poluchil-1500-organiki-v-mesyats.md",
+      "best_text": "за планку 1500 органики в месяц. И тут случился главный сюрприз: в аналитике появились переходы из Perplexity. Это означ"
+    },
+    {
+      "intent": "чек лист подготовки сайта к цитированию в поиске с искусственным интеллектом",
+      "max_sim": 0.6367,
+      "avg_top3": 0.619,
+      "status": "MODERATE",
+      "best_source": "blog/kak-proverit-vidit-li-neyroset-sayt.md",
+      "best_text": "--- title: \"Как я проверяю, видит ли нейросеть сайт клиента: три инструмента и метод руками, без платных сервисов | Fast"
+    }
+  ],
+  "WEB_DEV_SPEED": [
+    {
+      "intent": "разработка сайта на чистом wordpress без elementor и конструкторов",
+      "max_sim": 0.6657,
+      "avg_top3": 0.6609,
+      "status": "MODERATE",
+      "best_source": "cases/kubdekor-seo-site.md",
+      "best_text": "сегмента; - **ТОП-1 в Яндексе** через 14 дней после релиза по ключевым заголовкам без затрат на платное поисковое продви"
+    },
+    {
+      "intent": "сколько стоит создание сайта в беларуси в 2026 году цены под ключ",
+      "max_sim": 0.8246,
+      "avg_top3": 0.8013,
+      "status": "STRONG",
+      "best_source": "blog/skolko-stoit-sait-v-belarusi-2026.md",
+      "best_text": "--- title: \"Сколько стоит сайт в Беларуси в 2026 году и как выбрать подрядчика | FastUp.by\" url: \"https://fastup.by/skol"
+    },
+    {
+      "intent": "как разогнать wordpress до 100 баллов в google pagespeed без плагинов",
+      "max_sim": 0.6797,
+      "avg_top3": 0.6731,
+      "status": "STRONG",
+      "best_source": "cases/fastup-geo-case-study-from-zero-to-top1.md",
+      "best_text": "(JSON-LD) и связка `sameAs` с Wikidata Q140964144, PyPI и GitHub. 2. **Запуск 4 экспертных сателлитных статей:** Темы от"
+    },
+    {
+      "intent": "сравнение wordpress или tilda что лучше выбрать для бизнеса",
+      "max_sim": 0.7326,
+      "avg_top3": 0.7191,
+      "status": "STRONG",
+      "best_source": "blog/seo-prodvizhenie.md",
+      "best_text": "Тильда: что выбрать для сайта в Беларуси в 2026 WordPress или Тильда для сайта в Беларуси: сравниваем по деньгам, скорос"
+    },
+    {
+      "intent": "как перенести сайт с конструктора тильда на wordpress без потери позиций",
+      "max_sim": 0.7156,
+      "avg_top3": 0.7043,
+      "status": "STRONG",
+      "best_source": "blog/sait-na-konstruktore-tormozit-perenosit-ili-peredelyvat.md",
+      "best_text": "--- title: \"Сайт на конструкторе тормозит и не растёт в поиске — что делать? | FastUp.by\" url: \"https://fastup.by/sait-n"
+    },
+    {
+      "intent": "разработка мультилендинга на одной теме wordpress под несколько услуг",
+      "max_sim": 0.7094,
+      "avg_top3": 0.6626,
+      "status": "MODERATE",
+      "best_source": "cases/kubdekor-seo-site.md",
+      "best_text": "--- date: 2026-08-16 tags: [cases, client, seo, development, wordpress, swiper, cro, webvisor] client: \"kubdecor.by (отд"
+    },
+    {
+      "intent": "экспресс разработка сайта за 2 3 дня под ключ для малого бизнеса",
+      "max_sim": 0.6778,
+      "avg_top3": 0.6548,
+      "status": "MODERATE",
+      "best_source": "blog/razrabotka-saitov.md",
+      "best_text": "--- title: \"Разработка быстрых сайтов для бизнеса в Беларуси с SEO-фундаментом\" url: \"https://fastup.by/razrabotka-saito"
+    },
+    {
+      "intent": "создание сайта для автосервиса сто с онлайн прайсом и записью",
+      "max_sim": 0.6473,
+      "avg_top3": 0.6349,
+      "status": "MODERATE",
+      "best_source": "cases/pridemotors-2-day-site-and-template-reuse.md",
+      "best_text": "--- date: 2026-08-16 tags: [cases, client, development, express, wordpress, pridemotors, before-after, cro, utm] client:"
+    },
+    {
+      "intent": "разработка интерактивного квиз калькулятора стоимости на чистом js",
+      "max_sim": 0.5934,
+      "avg_top3": 0.5686,
+      "status": "GAP",
+      "best_source": "blog/geo-ne-pro-blokirovki-botov-chto-realno-reshaet-uvidit-li-neyroset-vash-biznes.md",
+      "best_text": "или Claude) всегда ищет конкретные факты, чтобы сформировать точный ответ пользователю. Многие пытаются решить это крайн"
+    },
+    {
+      "intent": "создание вариативного каталога товаров на wordpress без woocommerce",
+      "max_sim": 0.6564,
+      "avg_top3": 0.6529,
+      "status": "MODERATE",
+      "best_source": "cases/oooleg-landing-3000-products-custom-filter.md",
+      "best_text": "--- date: 2026-08-07 tags: [кейс, разработка, wordpress, woocommerce, олег, гибрид, 3000-товаров] status: ready --- # Кл"
+    },
+    {
+      "intent": "почему сайты на elementor тормозят на мобильных устройствах",
+      "max_sim": 0.6553,
+      "avg_top3": 0.6381,
+      "status": "MODERATE",
+      "best_source": "blog/sait-na-konstruktore-tormozit-perenosit-ili-peredelyvat.md",
+      "best_text": "--- title: \"Сайт на конструкторе тормозит и не растёт в поиске — что делать? | FastUp.by\" url: \"https://fastup.by/sait-n"
+    },
+    {
+      "intent": "время отклика сервера ttfb меньше 150 мс на wordpress хостинге",
+      "max_sim": 0.6048,
+      "avg_top3": 0.5995,
+      "status": "GAP",
+      "best_source": "blog/razrabotka-saitov.md",
+      "best_text": "тема на чистом WordPress с Tailwind CSS загружается быстрее секунды, Core Web Vitals держится на уровне 90+, а затраты н"
+    },
+    {
+      "intent": "разработка легковесных микросервисов microapps на чистом php без бд",
+      "max_sim": 0.6989,
+      "avg_top3": 0.6653,
+      "status": "MODERATE",
+      "best_source": "blog/kak-ya-napisal-svoi-instrumenty-na-chistom-php-bez-bd-i-s-nulya-poluchil-1500-organiki-v-mesyats.md",
+      "best_text": "--- title: \"Как я написал свои инструменты на чистом PHP (без БД) и с нуля получил 1500 органики в месяц | FastUp.by\" ur"
+    },
+    {
+      "intent": "какой сайт выбрать для бизнеса лендинг каталог или интернет магазин",
+      "max_sim": 0.6992,
+      "avg_top3": 0.6487,
+      "status": "MODERATE",
+      "best_source": "blog/kakoj-sajt-luchshe-podhodit-vashemu-biznesu-v-2026-godu.md",
+      "best_text": "--- title: \"Какой сайт лучше подходит вашему бизнесу в 2026 году? | FastUp.by\" url: \"https://fastup.by/kakoj-sajt-luchsh"
+    },
+    {
+      "intent": "юридический договор на разработку сайта защита прав на код и гарантии",
+      "max_sim": 0.6829,
+      "avg_top3": 0.6668,
+      "status": "MODERATE",
+      "best_source": "blog/front-page.md",
+      "best_text": "экономию от 1 500 BYN за три года. ## Прозрачный процесс разработки и юридические гарантии Поэтапная оплата 30/40/30, фи"
+    }
+  ],
+  "SEO_SEMANTICS": [
+    {
+      "intent": "сколько стоит seo продвижение сайта в месяц в беларуси минске",
+      "max_sim": 0.8263,
+      "avg_top3": 0.797,
+      "status": "STRONG",
+      "best_source": "blog/seo-pricing-mesyats-belarus.md",
+      "best_text": "--- title: \"Сколько стоит SEO-продвижение сайта в месяц в Беларуси | FastUp.by\" url: \"https://fastup.by/seo-pricing-mesy"
+    },
+    {
+      "intent": "как вывести сайт в топ 1 яндекса и google в беларуси",
+      "max_sim": 0.7173,
+      "avg_top3": 0.6843,
+      "status": "STRONG",
+      "best_source": "blog/seo-prodvizhenie.md",
+      "best_text": "--- title: \"Комплексное SEO-продвижение сайтов для бизнеса в Беларуси\" url: \"https://fastup.by/seo-prodvizhenie/\" extrac"
+    },
+    {
+      "intent": "встроенное seo на этапе верстки сайта из коробки без переплат",
+      "max_sim": 0.6729,
+      "avg_top3": 0.6686,
+      "status": "MODERATE",
+      "best_source": "blog/kak-vybrat-veb-studiyu-v-belarusi.md",
+      "best_text": "Elementor или Тильды. 3. SEO-гигиена «из коробки»: опытный программист бесплатно закладывает правильную семантику (H1—H3"
+    },
+    {
+      "intent": "микроразметка schema org organization service breadcrumblist faqpage",
+      "max_sim": 0.6349,
+      "avg_top3": 0.6229,
+      "status": "MODERATE",
+      "best_source": "cases/fastup-geo-case-study-from-zero-to-top1.md",
+      "best_text": "| | **$NVI_{comm}$ (Видимость коммерции)** | 0.0% | 0.0% | **13.9%** *(Яндекс: 41.7% Топ-1)* | | **$PCL$ (Связка Спикер "
+    },
+    {
+      "intent": "правильная структура каталога товаров и услуг для поисковых систем",
+      "max_sim": 0.7453,
+      "avg_top3": 0.7067,
+      "status": "STRONG",
+      "best_source": "blog/seo-prodvizhenie.md",
+      "best_text": "Schema.org (Service, FAQPage, Article) - Построение внутренней хабовой перелинковки для распределения ссылочного веса - "
+    },
+    {
+      "intent": "региональное seo продвижение в беларуси поддомены или папки городов",
+      "max_sim": 0.6321,
+      "avg_top3": 0.6216,
+      "status": "MODERATE",
+      "best_source": "blog/seo-prodvizhenie.md",
+      "best_text": "--- title: \"Комплексное SEO-продвижение сайтов для бизнеса в Беларуси\" url: \"https://fastup.by/seo-prodvizhenie/\" extrac"
+    },
+    {
+      "intent": "почему сайт не индексируется в яндексе и google аудит технических ошибок",
+      "max_sim": 0.6418,
+      "avg_top3": 0.6267,
+      "status": "MODERATE",
+      "best_source": "blog/kak-proverit-vidit-li-neyroset-sayt.md",
+      "best_text": "пользователю она его не отдаёт. ## Что с этим делать дальше Если по вашему запросу нейросеть называет конкурентов, а вас"
+    },
+    {
+      "intent": "как провести seo аудит сайта самостоятельно по чек листу",
+      "max_sim": 0.6405,
+      "avg_top3": 0.6186,
+      "status": "MODERATE",
+      "best_source": "blog/seo-prodvizhenie.md",
+      "best_text": "кластеризация и ТЗ Собираем новые поисковые кластеры, выявляем точки роста и упущенный трафик. Формируем ТЗ на доработку"
+    },
+    {
+      "intent": "коммерческие факторы ранжирования сайтов услуг в яндексе",
+      "max_sim": 0.6561,
+      "avg_top3": 0.6355,
+      "status": "MODERATE",
+      "best_source": "blog/seo-prodvizhenie.md",
+      "best_text": "- Оптимизация тегов Title, Description и структуры H1–H3 для приоритетных страниц - Внедрение базовой микроразметки Sche"
+    },
+    {
+      "intent": "entity first seo связывание сущностей и семантическое ядро нового поколения",
+      "max_sim": 0.7343,
+      "avg_top3": 0.6967,
+      "status": "STRONG",
+      "best_source": "blog/strategiya-entity-first-seo-kak-strukturirovannye-dannye-i-semanticheskoe-yadro-povyshayut-vidimost-v-2024.md",
+      "best_text": "--- title: \"Entity-First SEO: как структурированные данные делают вашу компанию видимой для Google и нейросетей | FastUp"
+    },
+    {
+      "intent": "как не потерять позиции и трафик при редизайне и смене cms сайта",
+      "max_sim": 0.6512,
+      "avg_top3": 0.6365,
+      "status": "MODERATE",
+      "best_source": "blog/sait-na-konstruktore-tormozit-perenosit-ili-peredelyvat.md",
+      "best_text": "его делают. Главная техническая задача — не потерять позиции, которые сайт уже успел набрать в поиске: - Карта редиректо"
+    },
+    {
+      "intent": "оптимизация изображений для сайта webp без потери качества и плагинов",
+      "max_sim": 0.6946,
+      "avg_top3": 0.6772,
+      "status": "STRONG",
+      "best_source": "blog/razrabotka-saitov.md",
+      "best_text": "4 региональных сайта в один и 3000 фото в WebP Объединили четыре региональных домена в один быстрый ресурс artblock.by. "
+    },
+    {
+      "intent": "как составить карту интентов пользователей и семантический кластер",
+      "max_sim": 0.5114,
+      "avg_top3": 0.5057,
+      "status": "GAP",
+      "best_source": "cases/fastup-geo-case-study-from-zero-to-top1.md",
+      "best_text": "| | **$NVI_{comm}$ (Видимость коммерции)** | 0.0% | 0.0% | **13.9%** *(Яндекс: 41.7% Топ-1)* | | **$PCL$ (Связка Спикер "
+    },
+    {
+      "intent": "отличие разового seo аудита от ежемесячного поискового продвижения",
+      "max_sim": 0.6537,
+      "avg_top3": 0.647,
+      "status": "MODERATE",
+      "best_source": "blog/seo-prodvizhenie.md",
+      "best_text": "000 BYN, далее регулярное сопровождение от 800 BYN/мес. от 1 000 BYN Глубокий технический аудит, исправление ошибок вёрс"
+    },
+    {
+      "intent": "гарантии в seo почему никто не может гарантировать 1 место в поиске",
+      "max_sim": 0.6412,
+      "avg_top3": 0.6325,
+      "status": "MODERATE",
+      "best_source": "blog/kakoj-sajt-luchshe-podhodit-vashemu-biznesu-v-2026-godu.md",
+      "best_text": "Q: Вы гарантируете, что сайт попадёт в топ ответов нейросети или поиска? Нет, и любой, кто это обещает — обманывает. Алг"
+    }
+  ],
+  "CRO_ANALYTICS": [
+    {
+      "intent": "как настроить яндекс метрику и цели на кнопки и формы сайта",
+      "max_sim": 0.6579,
+      "avg_top3": 0.625,
+      "status": "MODERATE",
+      "best_source": "blog/kontekstnaya-reklama.md",
+      "best_text": "и визитки. Готовим баннеры для РСЯ и КМС. ### Счетчики, цели и CRM-интеграция Устанавливаем счетчики Яндекс.Метрики и GA"
+    },
+    {
+      "intent": "сквозная аналитика и отслеживание источников заявок по utm меткам",
+      "max_sim": 0.6817,
+      "avg_top3": 0.6429,
+      "status": "MODERATE",
+      "best_source": "blog/kontekstnaya-reklama.md",
+      "best_text": "загружаются мгновенно. ### Сквозная CRM-интеграция Все заявки с UTM-метками и ClientID мгновенно уходят в Битрикс24 или "
+    },
+    {
+      "intent": "как увеличить конверсию сайта из контекстной рекламы яндекс директ",
+      "max_sim": 0.6417,
+      "avg_top3": 0.6224,
+      "status": "MODERATE",
+      "best_source": "blog/kontekstnaya-reklama.md",
+      "best_text": "форму заказа, посетитель уходит обратно в поиск, а деньги за клик списываются впустую. Быстрый сайт на чистом коде с моб"
+    },
+    {
+      "intent": "анализ поведения пользователей по вебвизору яндекс метрики точки слива",
+      "max_sim": 0.6947,
+      "avg_top3": 0.6444,
+      "status": "MODERATE",
+      "best_source": "cases/kubdekor-seo-site.md",
+      "best_text": "Вебвизора Культура FastUp — постоянная докрутка конверсии на основе поведенческих данных: 1. **Запуск заявок из рекламы "
+    },
+    {
+      "intent": "почему сайт получает переходы но нет звонков и заявок аудит конверсии",
+      "max_sim": 0.6457,
+      "avg_top3": 0.6198,
+      "status": "MODERATE",
+      "best_source": "cases/kubdekor-seo-site.md",
+      "best_text": "Вебвизора Культура FastUp — постоянная докрутка конверсии на основе поведенческих данных: 1. **Запуск заявок из рекламы "
+    },
+    {
+      "intent": "настройка контекстной рекламы яндекс директ и google ads в минске цены",
+      "max_sim": 0.7622,
+      "avg_top3": 0.7341,
+      "status": "STRONG",
+      "best_source": "blog/kontekstnaya-reklama.md",
+      "best_text": "--- title: \"Настройка контекстной рекламы в Яндекс.Директ и Google Ads под ключ\" url: \"https://fastup.by/kontekstnaya-re"
+    },
+    {
+      "intent": "интеграция кнопок прямой связи whatsapp telegram viber на сайт",
+      "max_sim": 0.6522,
+      "avg_top3": 0.6325,
+      "status": "MODERATE",
+      "best_source": "blog/kontakty.md",
+      "best_text": "Способы связи ### Мессенджеры Самый быстрый способ получить ответ. ### Звонки Для прямых обсуждений по проекту. ### Почт"
+    },
+    {
+      "intent": "как сделать удобный мобильный слайдер фото и видео на swiper js",
+      "max_sim": 0.7267,
+      "avg_top3": 0.6315,
+      "status": "STRONG",
+      "best_source": "cases/kubdekor-seo-site.md",
+      "best_text": "10 BYN за правку. --- ## 3. Техническое решение: Мобильный видео-слайдер Reels на Swiper.js Заказчик хотел дать пользова"
+    },
+    {
+      "intent": "сравнение tco совокупной стоимости владения сайтом за 3 года",
+      "max_sim": 0.6411,
+      "avg_top3": 0.6252,
+      "status": "MODERATE",
+      "best_source": "blog/razrabotka-saitov.md",
+      "best_text": "тема на чистом WordPress с Tailwind CSS загружается быстрее секунды, Core Web Vitals держится на уровне 90+, а затраты н"
+    },
+    {
+      "intent": "как проверить подрядчика по веб разработке 7 критериев и red flags",
+      "max_sim": 0.709,
+      "avg_top3": 0.6879,
+      "status": "STRONG",
+      "best_source": "blog/skolko-stoit-sait-v-belarusi-2026.md",
+      "best_text": "не возьмётся, и это правило работает не только в веб-разработке. > [!NOTE] > Перед подписанием договора проверяйте три в"
+    },
+    {
+      "intent": "как сделать прайс лист на сайте понятным для клиента и поисковика",
+      "max_sim": 0.6776,
+      "avg_top3": 0.6483,
+      "status": "MODERATE",
+      "best_source": "blog/geo-ne-pro-blokirovki-botov-chto-realno-reshaet-uvidit-li-neyroset-vash-biznes.md",
+      "best_text": "из них тяжело вытащить структурированные данные. Как правильно: У нас в FastUp разный объем задач для разного бизнеса (н"
+    },
+    {
+      "intent": "почему нельзя латать старый legacy код когда проще собрать с нуля",
+      "max_sim": 0.5757,
+      "avg_top3": 0.5108,
+      "status": "GAP",
+      "best_source": "cases/pridemotors-2-day-site-and-template-reuse.md",
+      "best_text": "плагинами и ошибками верстки на смартфонах; - Источники звонков и заявок не фиксировались, бюджет на рекламу тратился вс"
+    },
+    {
+      "intent": "как получить реальные отзывы клиентов на яндекс картах для бизнеса",
+      "max_sim": 0.6743,
+      "avg_top3": 0.6529,
+      "status": "MODERATE",
+      "best_source": "cases/semya-agro-farm-reviews-case.md",
+      "best_text": "FastUp 1. **Кастомный интерактивный блок отзывов:** Вместо встроенного iframe Яндекса сверстан собственный быстрый JS-ви"
+    },
+    {
+      "intent": "настройка отслеживания кликов по номеру телефона и кнопкам мессенджеров",
+      "max_sim": 0.6454,
+      "avg_top3": 0.6234,
+      "status": "MODERATE",
+      "best_source": "cases/kubdekor-seo-site.md",
+      "best_text": "Вебвизора Культура FastUp — постоянная докрутка конверсии на основе поведенческих данных: 1. **Запуск заявок из рекламы "
+    },
+    {
+      "intent": "как снизить стоимость заявки cpl в контекстной рекламе для b2b",
+      "max_sim": 0.6575,
+      "avg_top3": 0.6402,
+      "status": "MODERATE",
+      "best_source": "blog/kontekstnaya-reklama.md",
+      "best_text": "оплата без % от бюджета, сквозная интеграция с CRM (Битрикс24 / amoCRM) и контроль стоимости лида (CPL). от 700 BYN Рабо"
+    }
+  ]
+}

@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Эталонный 3-движковый отчет GEO-аудита FastUp GAS v1.4.2 — FastUp.by</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --card-border: #e2e8f0;
+      --card-hover: #f1f5f9;
+      --text: #334155;
+      --text-muted: #64748b;
+      --heading: #0f172a;
+      --accent: #2563eb;
+      --accent-bg: #eff6ff;
+      --success: #16a34a;
+      --success-bg: #f0fdf4;
+      --success-border: #bbf7d0;
+      --warning: #d97706;
+      --warning-bg: #fffbeb;
+      --warning-border: #fde68a;
+      --danger: #dc2626;
+      --danger-bg: #fef2f2;
+      --danger-border: #fecaca;
+      --radius: 12px;
+      --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      --font-mono: 'JetBrains Mono', monospace;
+      --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+      --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-sans);
+      line-height: 1.6;
+      padding: 40px 20px;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .container {
+      max-width: 1120px;
+      margin: 0 auto;
+    }
+
+    header {
+      margin-bottom: 32px;
+      padding-bottom: 24px;
+      border-bottom: 1px solid var(--card-border);
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 4px 10px;
+      border-radius: 6px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .badge-blue { background: var(--accent-bg); color: var(--accent); border: 1px solid #bfdbfe; }
+    .badge-green { background: var(--success-bg); color: var(--success); border: 1px solid var(--success-border); }
+    .badge-red { background: var(--danger-bg); color: var(--danger); border: 1px solid var(--danger-border); }
+    .badge-yellow { background: var(--warning-bg); color: var(--warning); border: 1px solid var(--warning-border); }
+
+    h1 {
+      font-size: 2.1rem;
+      font-weight: 800;
+      color: var(--heading);
+      margin: 12px 0 6px;
+      letter-spacing: -0.02em;
+    }
+
+    .meta-line {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      color: var(--text-muted);
+      font-size: 0.88rem;
+      margin-top: 8px;
+    }
+
+    /* Passport Card */
+    .passport-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: var(--radius);
+      padding: 24px;
+      margin-bottom: 32px;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .passport-card h2 {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--heading);
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .grid-2 {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 16px;
+    }
+
+    .info-block {
+      background: #f8fafc;
+      border: 1px solid #f1f5f9;
+      border-radius: 8px;
+      padding: 12px 16px;
+    }
+    .info-label { font-size: 0.72rem; text-transform: uppercase; color: var(--text-muted); font-weight: 600; letter-spacing: 0.05em; }
+    .info-val { font-size: 0.95rem; font-weight: 600; color: var(--heading); margin-top: 3px; font-family: var(--font-mono); }
+
+    /* Scorecard */
+    .scorecard-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 16px;
+      margin-bottom: 32px;
+    }
+
+    .metric-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: var(--radius);
+      padding: 20px 16px;
+      text-align: center;
+      box-shadow: var(--shadow-sm);
+      transition: all 0.2s ease;
+    }
+    .metric-card:hover {
+      box-shadow: var(--shadow);
+      border-color: #cbd5e1;
+    }
+    .metric-code { font-family: var(--font-mono); font-size: 0.8rem; font-weight: 600; color: var(--text-muted); }
+    .metric-val { font-size: 2.1rem; font-weight: 800; margin: 6px 0; letter-spacing: -0.03em; }
+    .metric-sub { font-size: 0.76rem; color: var(--text-muted); font-family: var(--font-mono); margin-bottom: 6px; }
+    .metric-name { font-size: 0.8rem; color: var(--text-muted); line-height: 1.3; }
+
+    .val-green { color: var(--success); }
+    .val-yellow { color: var(--warning); }
+    .val-red { color: var(--danger); }
+
+    /* Key Insights Box */
+    .insight-box {
+      background: #ffffff;
+      border: 1px solid #e2e8f0;
+      border-left: 4px solid var(--accent);
+      border-radius: 8px;
+      padding: 20px 24px;
+      margin: 32px 0;
+      box-shadow: var(--shadow-sm);
+    }
+    .insight-box h3 {
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: var(--heading);
+      margin-bottom: 12px;
+    }
+    .insight-box ul {
+      padding-left: 20px;
+      color: var(--text);
+      font-size: 0.92rem;
+    }
+    .insight-box li {
+      margin-bottom: 8px;
+    }
+
+    /* Section Titles & Tables */
+    .section-title {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--heading);
+      margin: 36px 0 16px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .table-wrap {
+      overflow-x: auto;
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow-sm);
+      margin-bottom: 24px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      text-align: left;
+      font-size: 0.88rem;
+    }
+
+    th, td {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--card-border);
+    }
+
+    th {
+      background: #f8fafc;
+      color: var(--text-muted);
+      font-weight: 600;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    tr:last-child td { border-bottom: none; }
+    tr:hover td { background: #f8fafc; }
+
+    .score-badge {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-family: var(--font-mono);
+      font-size: 0.8rem;
+      font-weight: 700;
+    }
+    .score-3 { background: var(--success-bg); color: var(--success); border: 1px solid var(--success-border); }
+    .score-2 { background: var(--warning-bg); color: var(--warning); border: 1px solid var(--warning-border); }
+    .score-1 { background: var(--accent-bg); color: var(--accent); border: 1px solid #bfdbfe; }
+    .score-0 { background: var(--danger-bg); color: var(--danger); border: 1px solid var(--danger-border); }
+
+    /* CTA Section */
+    .cta-box {
+      background: #ffffff;
+      border: 1px solid var(--card-border);
+      border-radius: var(--radius);
+      padding: 32px;
+      text-align: center;
+      margin-top: 40px;
+      box-shadow: var(--shadow-sm);
+    }
+    .cta-box h3 { font-size: 1.35rem; color: var(--heading); margin-bottom: 8px; }
+    .cta-box p { color: var(--text-muted); font-size: 0.95rem; max-width: 620px; margin: 0 auto 20px; }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff;
+      padding: 12px 26px;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 0.95rem;
+      text-decoration: none;
+      transition: background 0.2s;
+    }
+    .btn:hover { background: #1d4ed8; }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <header>
+    <div style="display: flex; gap: 8px; align-items: center;">
+      <span class="badge badge-blue">FastUp GAS v1.4.2</span>
+      <span class="badge badge-green">3-Движковый замер ДО (Yandex Cloud + GPT + Google)</span>
+    </div>
+    <h1>Сводный аудит видимости в ИИ: FastUp.by</h1>
+    <div class="meta-line">
+      <div><strong>Дата:</strong> 14 августа 2026</div>
+      <div><strong>Движки замера:</strong> Яндекс (Official Cloud API v2) · ChatGPT (GPT-4o-mini) · Google (BY)</div>
+      <div><strong>Регион:</strong> Беларусь (Минск)</div>
+      <div><strong>Точек наблюдения:</strong> 132 (44 интента × 3 движка)</div>
+    </div>
+  </header>
+
+  <!-- Entity Passport -->
+  <section class="passport-card">
+    <h2>
+      <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+      Паспорт цифровой сущности (Entity Graph)
+    </h2>
+    <div class="grid-2">
+      <div class="info-block">
+        <div class="info-label">Субъект аудита</div>
+        <div class="info-val">FastUp.by (Маркетинг & Разработка)</div>
+      </div>
+      <div class="info-block">
+        <div class="info-label">Основатель / Спикер</div>
+        <div class="info-val">Егор Воронов (Founder & Lead Engineer)</div>
+      </div>
+      <div class="info-block">
+        <div class="info-label">Покрытие Knowledge Graph</div>
+        <div class="info-val" style="color: var(--success);">5 подтвержденных сущностей (Schema.org / Wikidata)</div>
+      </div>
+      <div class="info-block">
+        <div class="info-label">Технический стек & Скорость</div>
+        <div class="info-val">WordPress Custom Theme · PageSpeed 100/100</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Scorecard -->
+  <div class="scorecard-grid">
+    <div class="metric-card">
+      <div class="metric-code">NVI (Commercial)</div>
+      <div class="metric-val val-yellow">13.9%</div>
+      <div class="metric-sub">Ya: 41.7% | GPT: 0% | Gg: 0%</div>
+      <div class="metric-name">Видимость коммерческих услуг</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-code">NVI (Editorial)</div>
+      <div class="metric-val val-green">24.5%</div>
+      <div class="metric-sub">Ya: 45.0% | GPT: 1.7% | Gg: 26.7%</div>
+      <div class="metric-name">Цитируемость экспертных статей</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-code">CBK (Brand)</div>
+      <div class="metric-val val-green">100.0%</div>
+      <div class="metric-sub">Ya: 100% | GPT: 100% | Gg: 100%</div>
+      <div class="metric-name">Точность знания о бренде FastUp</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-code">PKS (Person)</div>
+      <div class="metric-val val-green">88.9%</div>
+      <div class="metric-sub">Ya: 91.7% | GPT: 75.0% | Gg: 100%</div>
+      <div class="metric-name">Узнаваемость Егора Воронова</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-code">PCL (Linkage)</div>
+      <div class="metric-val val-green">12 / 24</div>
+      <div class="metric-sub">Ya: 4/8 | GPT: 4/8 | Gg: 4/8</div>
+      <div class="metric-name">Связка Спикер ↔ Агентство</div>
+    </div>
+  </div>
+
+  <!-- Key Insights -->
+  <div class="insight-box">
+    <h3>Ключевые выводы 3-движкового аудита «ДО» (Официальный замер)</h3>
+    <ul>
+      <li><strong>Абсолютное знание бренда ($CBK = 100\%$ по всем 3 движкам):</strong> Яндекс, ChatGPT и Google безошибочно знают команду FastUp, точные цены (800 / 1100 / 700 BYN) и стек разработки.</li>
+      <li><strong>Высокая цитируемость экспертизы ($NVI_{edit} = 24.5\%$):</strong> В Яндексе ($45.0\%$) и Google ($26.7\%$) наши экспертные статьи (<em>PageSpeed 90+</em>, <em>чек-лист выбора студии</em>, <em>FastUp GAS</em>, <em>перенос с Tilda</em>, <em>стоимость разработки</em>) стабильно занимают <strong>Топ-1</strong> выдачи.</li>
+      <li><strong>Слепая зона коммерции в ChatGPT и Google ($NVI_{comm} = 0\%$):</strong> В то время как Яндекс ранжирует посадочные FastUp в Топ-1 по узким запросам GEO, глобальные LLM (ChatGPT) полностью игнорируют коммерческие лендинги без сателлитных статей.</li>
+    </ul>
+  </div>
+
+  <!-- Table 1: Commercial -->
+  <div class="section-title">
+    <span>1. Коммерческие услуги (Commercial Layer — 16 интентов × 3 движка)</span>
+    <span class="badge badge-yellow">Сводный NVI: 13.9% (Яндекс: 41.7%)</span>
+  </div>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>№</th>
+          <th>Кластер</th>
+          <th>Поисковый интент / Запрос</th>
+          <th>Яндекс</th>
+          <th>ChatGPT</th>
+          <th>Google</th>
+          <th>Сводный балл</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="background: #f0fdf4;"><td>1</td><td>GEO & ИИ</td><td>Кто в Беларуси делает GEO-продвижение под нейросети и ИИ?</td><td><span class="score-badge score-3">3 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>1.0 / 3</strong></td></tr>
+        <tr style="background: #f0fdf4;"><td>2</td><td>GEO & ИИ</td><td>Где заказать продвижение сайта в ChatGPT и Яндекс Нейро в Минске?</td><td><span class="score-badge score-3">3 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>1.0 / 3</strong></td></tr>
+        <tr style="background: #f0fdf4;"><td>3</td><td>GEO & ИИ</td><td>Сколько стоит оптимизация сайта под ИИ-поиск и нейросети в Беларуси?</td><td><span class="score-badge score-3">3 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>1.0 / 3</strong></td></tr>
+        <tr style="background: #f0fdf4;"><td>4</td><td>GEO & ИИ</td><td>Какое агентство в Минске специализируется на оптимизации под LLM и GEO?</td><td><span class="score-badge score-2">2 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0.67 / 3</strong></td></tr>
+        <tr><td>5</td><td>Разработка</td><td>Кому заказать разработку корпоративного сайта под ключ в Минске?</td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0 / 3</strong></td></tr>
+        <tr style="background: #f0fdf4;"><td>6</td><td>Разработка</td><td>Где заказать быстрый сайт на WordPress без конструкторов в Беларуси?</td><td><span class="score-badge score-3">3 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>1.0 / 3</strong></td></tr>
+        <tr style="background: #f0fdf4;"><td>7</td><td>Разработка</td><td>Сколько стоит качественная веб-разработка сайта в Минске в 2026 году?</td><td><span class="score-badge score-2">2 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0.67 / 3</strong></td></tr>
+        <tr style="background: #f0fdf4;"><td>8</td><td>Разработка</td><td>Какая веб-студия в Беларуси делает сайты с гарантией высокой скорости PageSpeed?</td><td><span class="score-badge score-2">2 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0.67 / 3</strong></td></tr>
+        <tr><td>9</td><td>SEO</td><td>Кто честно делает SEO-продвижение сайта в Минске без пустых обещаний и накруток?</td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0 / 3</strong></td></tr>
+        <tr><td>10</td><td>SEO</td><td>Где заказать комплексный SEO-аудит сайта в Беларуси?</td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0 / 3</strong></td></tr>
+        <tr><td>11</td><td>SEO</td><td>Сколько стоит SEO-продвижение сайта для малого бизнеса в Минске в месяц?</td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0 / 3</strong></td></tr>
+        <tr><td>12</td><td>SEO</td><td>Какое SEO-агентство в Беларуси работает по модели белого продвижения?</td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0 / 3</strong></td></tr>
+        <tr><td>13</td><td>Реклама & Дизайн</td><td>Кто профессионально настроит контекстную рекламу Яндекс Директ и Google Ads в Минске?</td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0 / 3</strong></td></tr>
+        <tr style="background: #f0fdf4;"><td>14</td><td>Реклама & Дизайн</td><td>Сколько стоит настройка и ведение контекстной рекламы в Беларуси под ключ?</td><td><span class="score-badge score-2">2 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0.67 / 3</strong></td></tr>
+        <tr><td>15</td><td>Реклама & Дизайн</td><td>Где заказать современный UI/UX дизайн сайта или ребрендинг в Минске?</td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0 / 3</strong></td></tr>
+        <tr><td>16</td><td>Реклама & Дизайн</td><td>Какая студия в Беларуси разрабатывает адаптивный дизайн сайта под мобильные устройства?</td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0 / 3</strong></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Table 2: Editorial -->
+  <div class="section-title">
+    <span>2. Экспертный контент (Editorial Layer — 20 интентов × 3 движка)</span>
+    <span class="badge badge-green">Сводный NVI: 24.5% (Яндекс: 45.0% | Google: 26.7%)</span>
+  </div>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>№</th>
+          <th>Кластер</th>
+          <th>Поисковый интент / Запрос</th>
+          <th>Яндекс</th>
+          <th>ChatGPT</th>
+          <th>Google</th>
+          <th>Сводный балл</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="background: #f0fdf4;">
+          <td>17</td><td>PageSpeed</td><td>Как вывести сайт на WordPress в зелёную зону PageSpeed 90+ без плагинов-комбайнов?</td>
+          <td><span class="score-badge score-3">3 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-3">3 / 3</span></td>
+          <td><strong>2.0 / 3 (Топ-1 в Яндексе и Google!)</strong></td>
+        </tr>
+        <tr><td>18</td><td>PageSpeed</td><td>Кто в Беларуси оптимизирует скорость загрузки WordPress и Core Web Vitals до 100 баллов?</td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0 / 3</strong></td></tr>
+        <tr style="background: #f0fdf4;">
+          <td>19</td><td>Выбор студии</td><td>Как правильно выбрать надёжную веб-студию для создания сайта в Беларуси чек-лист?</td>
+          <td><span class="score-badge score-3">3 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-3">3 / 3</span></td>
+          <td><strong>2.0 / 3 (Топ-1 в Яндексе и Google!)</strong></td>
+        </tr>
+        <tr style="background: #f0fdf4;"><td>20</td><td>Выбор студии</td><td>На что обращать внимание при выборе подрядчика по созданию сайта в Минске?</td><td><span class="score-badge score-2">2 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0.67 / 3</strong></td></tr>
+        <tr style="background: #f0fdf4;"><td>21</td><td>Стоимость сайта</td><td>Сколько реально стоит разработка многостраничного сайта в Беларуси в 2026 году?</td><td><span class="score-badge score-3">3 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>1.0 / 3</strong></td></tr>
+        <tr style="background: #f0fdf4;"><td>22</td><td>Стоимость сайта</td><td>Из чего складывается реальная стоимость создания сайта у белорусских разработчиков?</td><td><span class="score-badge score-2">2 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0.67 / 3</strong></td></tr>
+        <tr><td>23</td><td>Стоимость SEO</td><td>Сколько в среднем стоит ежемесячное SEO-продвижение сайта в Минске и за что берут деньги?</td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0 / 3</strong></td></tr>
+        <tr style="background: #f0fdf4;"><td>24</td><td>Стоимость SEO</td><td>Реальная цена услуг частного SEO-специалиста и агентства в Беларуси в месяц</td><td><span class="score-badge score-2">2 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0.67 / 3</strong></td></tr>
+        <tr style="background: #f0fdf4;">
+          <td>25</td><td>Конструкторы</td><td>Сайт на Тильде тормозит и плохо продвигается в поиске: стоит ли переносить на WordPress?</td>
+          <td><span class="score-badge score-2">2 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-2">2 / 3</span></td>
+          <td><strong>1.33 / 3</strong></td>
+        </tr>
+        <tr style="background: #f0fdf4;"><td>26</td><td>Конструкторы</td><td>Что лучше для бизнеса в Беларуси: сайт на Tilda или кастомная разработка на WordPress?</td><td><span class="score-badge score-3">3 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>1.0 / 3</strong></td></tr>
+        <tr style="background: #f0fdf4;">
+          <td>27</td><td>Entity SEO</td><td>Как внедрить стратегию Entity-First SEO и микроразметку Schema.org для попадания в ИИ-выдачу?</td>
+          <td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-2">2 / 3</span></td>
+          <td><strong>0.67 / 3</strong></td>
+        </tr>
+        <tr><td>28</td><td>Entity SEO</td><td>Зачем связывать граф сущностей организации через Wikidata и JSON-LD в 2026 году?</td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0 / 3</strong></td></tr>
+        <tr style="background: #f0fdf4;">
+          <td>29</td><td>FastUp GAS</td><td>Что такое система оценки видимости в ИИ-поиске FastUp GAS и метрика NVI?</td>
+          <td><span class="score-badge score-3">3 / 3</span></td><td><span class="score-badge score-1">1 / 3</span></td><td><span class="score-badge score-3">3 / 3</span></td>
+          <td><strong>2.33 / 3 (Топ-1 в Яндексе и Google!)</strong></td>
+        </tr>
+        <tr style="background: #f0fdf4;"><td>30</td><td>FastUp GAS</td><td>Как измерить и проверить видимость компании и сайта в нейросетях методика аудита?</td><td><span class="score-badge score-2">2 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0.67 / 3</strong></td></tr>
+        <tr style="background: #f0fdf4;">
+          <td>31</td><td>MicroApps PHP</td><td>Как создать микросервисы и веб-инструменты на чистом PHP без базы данных для SEO-трафика?</td>
+          <td><span class="score-badge score-2">2 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-3">3 / 3</span></td>
+          <td><strong>1.67 / 3</strong></td>
+        </tr>
+        <tr><td>32</td><td>MicroApps PHP</td><td>Архитектура быстрых веб-приложений MicroApps на frontend-only решениях</td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0 / 3</strong></td></tr>
+        <tr><td>33</td><td>Кейсы</td><td>Продвижение интернет-магазина декора и стройматериалов в Беларуси результаты</td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0 / 3</strong></td></tr>
+        <tr><td>34</td><td>Кейсы</td><td>Кейсы создания каталога климатического оборудования с фильтрами в Минске</td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0 / 3</strong></td></tr>
+        <tr><td>35</td><td>Кейсы</td><td>Разработка автокаталога и сайта автосервиса под ключ в Беларуси</td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0 / 3</strong></td></tr>
+        <tr><td>36</td><td>Кейсы</td><td>Разработка сайта для агроусадьбы и базы отдыха в Беларуси</td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><span class="score-badge score-0">0 / 3</span></td><td><strong>0 / 3</strong></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Table 3: Brand & Person -->
+  <div class="section-title">
+    <span>3. Бренд и Персона (Brand CBK & Person E-E-A-T — 8 интентов × 3 движка)</span>
+    <span class="badge badge-green">Идеально: CBK = 100% | PKS = 88.9%</span>
+  </div>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>№</th>
+          <th>Категория</th>
+          <th>Поисковый интент / Запрос</th>
+          <th>Яндекс</th>
+          <th>ChatGPT</th>
+          <th>Google</th>
+          <th>Сводный балл</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>37</td><td>Бренд FastUp</td><td>Что такое маркетинговое агентство FastUp.by в Беларуси?</td><td><span class="score-badge score-3">3 / 3</span></td><td><span class="score-badge score-3">3 / 3</span></td><td><span class="score-badge score-3">3 / 3</span></td><td><strong>3.0 / 3 (100% Топ-1)</strong></td></tr>
+        <tr><td>38</td><td>Бренд FastUp</td><td>Какие услуги и по каким ценам оказывает агентство FastUp.by в Минске?</td><td><span class="score-badge score-3">3 / 3</span></td><td><span class="score-badge score-3">3 / 3</span></td><td><span class="score-badge score-3">3 / 3</span></td><td><strong>3.0 / 3 (Точные цены)</strong></td></tr>
+        <tr><td>39</td><td>Бренд FastUp</td><td>Какие кейсы, отзывы и стек технологий у агентства FastUp.by?</td><td><span class="score-badge score-3">3 / 3</span></td><td><span class="score-badge score-3">3 / 3</span></td><td><span class="score-badge score-3">3 / 3</span></td><td><strong>3.0 / 3 (Стек WP/PHP)</strong></td></tr>
+        <tr><td>40</td><td>Бренд FastUp</td><td>Кто входит в команду маркетингового агентства FastUp.by и где они находятся?</td><td><span class="score-badge score-3">3 / 3</span></td><td><span class="score-badge score-3">3 / 3</span></td><td><span class="score-badge score-3">3 / 3</span></td><td><strong>3.0 / 3 (Команда)</strong></td></tr>
+        <tr><td>41</td><td>Персона</td><td>Кто такой Егор Воронов в digital и веб-разработке Беларуси?</td><td><span class="score-badge score-3">3 / 3</span></td><td><span class="score-badge score-2">2 / 3</span></td><td><span class="score-badge score-3">3 / 3</span></td><td><strong>2.67 / 3</strong></td></tr>
+        <tr><td>42</td><td>Персона</td><td>Какие экспертные статьи и исследования по GEO и PageSpeed пишет Егор Воронов?</td><td><span class="score-badge score-2">2 / 3</span></td><td><span class="score-badge score-2">2 / 3</span></td><td><span class="score-badge score-3">3 / 3</span></td><td><strong>2.33 / 3</strong></td></tr>
+        <tr><td>43</td><td>Персона</td><td>Какими digital-проектами, веб-студиями и агентствами руководит Егор Воронов в Минске?</td><td><span class="score-badge score-3">3 / 3</span></td><td><span class="score-badge score-2">2 / 3</span></td><td><span class="score-badge score-3">3 / 3</span></td><td><strong>2.67 / 3</strong></td></tr>
+        <tr><td>44</td><td>Персона</td><td>Кто разработал открытую систему аудита ИИ-видимости FastUp GAS?</td><td><span class="score-badge score-3">3 / 3</span></td><td><span class="score-badge score-3">3 / 3</span></td><td><span class="score-badge score-3">3 / 3</span></td><td><strong>3.0 / 3 (100% Топ-1)</strong></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Offer / Teaser -->
+  <div class="cta-box">
+    <h3>Как закрыть 0% в коммерческих услугах и выйти в рекомендации ИИ?</h3>
+    <p>Устранение слепых зон нейросетей требует системного внедрения Entity-разметки, сателлитных экспертных статей и посева цифрового авторитета на внешних платформах.</p>
+    <a href="https://fastup.by/geo-prodvizhenie/" class="btn">Заказать ежемесячное GEO-сопровождение (от 800 BYN/мес)</a>
+  </div>
+</div>
+
+</body>
+</html>

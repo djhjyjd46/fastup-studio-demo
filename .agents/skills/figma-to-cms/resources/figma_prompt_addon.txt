@@ -1,0 +1,41 @@
+# UNIVERSAL FIGMA AI / DESIGN GENERATION PROMPT ADDON
+# Скопируйте и добавьте этот блок в конец любого промпта в Figma AI, Galileo, v0, Relume и др.
+
+[UNIVERSAL WEB DESIGN & TAILWIND COMPATIBILITY CONTRACT]
+1. CANVAS & CONTAINER:
+   - Desktop artboard: 1440px width.
+   - Main content container: Exactly 1400px width, centered.
+   - Outer horizontal padding: 20px on each side (1400px inner + 2*20px = 1440px).
+   - Mobile artboard: 390px width with 16px outer padding.
+
+2. STRICT 8PT / 4PT SPACING GRID (NO ODD PIXELS):
+   - ALL margins, paddings, gaps, and component heights MUST strictly follow the Tailwind 4px/8px scale:
+     [4px, 8px, 12px, 16px, 20px, 24px, 32px, 40px, 48px, 64px, 80px, 96px, 120px, 160px].
+   - STRICTLY FORBIDDEN: Arbitrary or odd pixel dimensions (e.g. 9px, 15px, 23px, 37px). Every spacing value must map cleanly to Tailwind utilities (gap-2, gap-4, gap-6, gap-8, gap-12, etc.).
+
+3. STANDARD TAILWIND BREAKPOINTS:
+   - Design layout behavior strictly conforming to standard web breakpoints:
+     sm (640px), md (768px), lg (1024px), xl (1280px), 2xl (1440px).
+
+4. AUTO-LAYOUT FIRST (NO ABSOLUTE POSITIONING):
+   - Every section, row, card, and button MUST use Auto-Layout (Flexbox).
+   - Columns: Set layoutMode to HORIZONTAL with explicit itemSpacing (e.g. 24px, 32px, 48px). Use HUG for content-based columns and FILL for stretching columns.
+   - NEVER create fake 12-column grids when standard Flexbox gap rhythm is intended.
+
+5. EQUAL-HEIGHT CARDS & SPACE-BETWEEN DISTRIBUTION:
+   - When cards in a row or column share the same height (e.g. 298px or 608px), divide the card content into exactly TWO distinct Auto-Layout child groups:
+     a) Top group: Icon, badge, or tag.
+     b) Bottom group: Heading, body copy, and action button.
+   - Set primaryAxisAlignItems to SPACE_BETWEEN so top and bottom elements anchor cleanly to opposite edges.
+
+6. FLAT / MINIMAL FORMS (NO UNREQUESTED CARD WRAPPERS):
+   - Do NOT wrap form inputs in heavy decorative cards, rounded surface boxes, or exaggerated drop-shadow containers unless explicitly requested.
+   - Inputs, labels, and submit buttons should rest cleanly on the section surface, using subtle borders and typography hierarchy.
+
+7. INTERACTIVE STATES & CONVERSION "SUGAR" WIDGETS:
+   - Always design explicit hover, active, and focus states for all interactive elements (buttons, cards, links, tabs).
+   - Design essential conversion widgets directly into the design system:
+     a) Non-intrusive Cookie Consent banner (floating bottom corner, minimal styling matching theme).
+     b) Floating Scroll-to-Top button (bottom-right).
+     c) Sticky quick-contact CTA / Messenger widget (Telegram, WhatsApp, Call).
+     d) Micro-interactions: subtle border-glow, scale, or color shifts on card hovers (200ms-300ms transitions).

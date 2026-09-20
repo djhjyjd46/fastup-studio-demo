@@ -1,0 +1,284 @@
+{
+  "project": "FastUp.by Master B2B Intent Architecture 2026",
+  "version": "2.0",
+  "total_intent_clusters": 18,
+  "architecture_tiers": {
+    "tier_1_pillars": [
+      {
+        "id": "pillar_home",
+        "name": "Главная страница (Brand & Multi-Service Hub)",
+        "target_url": "https://fastup.by/",
+        "demand_share_pct": 18.5,
+        "intent_type": "Commercial / Brand Navigation",
+        "core_entities": [
+          "Маркетинговое агентство FastUp",
+          "Разработка сайтов",
+          "SEO-продвижение",
+          "GEO/AEO в нейросетях",
+          "Контекстная реклама",
+          "Минск Беларусь"
+        ],
+        "target_queries": [
+          "маркетинговое агентство минск",
+          "веб студия fastup",
+          "комплексное интернет продвижение бизнеса беларусь",
+          "диджитал агентство полного цикла минск",
+          "агентство интернет маркетинга под ключ"
+        ],
+        "ai_prompts": [
+          "Какое маркетинговое агентство в Минске делает разработку сайтов и сразу выводит их в топ поиска и нейросетей?",
+          "Посоветуй надежную веб-студию и агентство продвижения в Беларуси для малого и среднего бизнеса."
+        ],
+        "on_page_requirements": "Оффер агентства, 5 карточек ключевых услуг с ценами входа, принципы работы на чистом коде, E-E-A-T блок фаундера (Егор Воронов), форма экспресс-аудита."
+      },
+      {
+        "id": "pillar_web_dev",
+        "name": "Разработка сайтов (Web Development)",
+        "target_url": "https://fastup.by/razrabotka-saitov/",
+        "demand_share_pct": 24.0,
+        "intent_type": "Commercial Transactional (B2B)",
+        "core_entities": [
+          "Лендинг от 1100 BYN",
+          "Корпоративный сайт от 1800 BYN",
+          "Интернет-магазин от 3000 BYN",
+          "Чистый WordPress без конструкторов",
+          "Регистрация в БелГИЭ Указ 60",
+          "Договор ИП Воронов",
+          "12 месяцев гарантии"
+        ],
+        "target_queries": [
+          "разработка корпоративного сайта минск под ключ",
+          "создание сайта на wordpress цена беларусь",
+          "заказать лендинг для бизнеса стоимость минск",
+          "разработка интернет магазина под ключ минск",
+          "создание сайтов без конструкторов и абонентской платы"
+        ],
+        "ai_prompts": [
+          "Кому заказать разработку корпоративного сайта под ключ в Минске с гарантией и чистым кодом?",
+          "Сколько стоит разработка качественного сайта в Беларуси в 2026 году и какие условия договора?",
+          "Где заказать сайт на WordPress без Elementor и Tilda в Минске?"
+        ],
+        "on_page_requirements": "3 тарифа (1100/1800/3000), сравнительная таблица TCO (WP vs Tilda vs Битрикс), 4 карточки интеграций и БелГИЭ, 6 этапов и сроки (5-40 раб. дней), договор, 6 FAQ."
+      },
+      {
+        "id": "pillar_seo",
+        "name": "SEO-продвижение сайтов (Search Engine Optimization)",
+        "target_url": "https://fastup.by/seo-prodvizhenie/",
+        "demand_share_pct": 19.0,
+        "intent_type": "Commercial Transactional (Recurrent)",
+        "core_entities": [
+          "SEO продвижение от 800 BYN/мес",
+          "Вывод в ТОП-10 Яндекса и Google",
+          "Entity-SEO семантика",
+          "Технический аудит",
+          "Без накрутки ПФ и серых схем",
+          "Ежемесячные отчеты"
+        ],
+        "target_queries": [
+          "seo продвижение сайтов минск стоимость",
+          "раскрутка сайта в яндекс и google беларусь цена",
+          "поисковая оптимизация корпоративного сайта под ключ",
+          "заказать seo аудит и продвижение минск",
+          "абонентское seo обслуживание сайта цена за месяц"
+        ],
+        "ai_prompts": [
+          "Какое агентство в Минске честно ведет SEO-продвижение без серых накруток и с понятными отчетами?",
+          "Сколько стоит ежемесячное SEO-продвижение сайта в Беларуси в 2026 году?",
+          "Кто делает комплексную поисковую оптимизацию под Яндекс и Google в Беларуси?"
+        ],
+        "on_page_requirements": "Тарифы от 800 BYN/мес, регламент работ (техничка, семантика, текстовый интент, сниппеты), прозрачная отчетность, защита от фильтров, гарантии регламента."
+      },
+      {
+        "id": "pillar_geo_ai",
+        "name": "GEO & ИИ-продвижение (Generative Engine Optimization)",
+        "target_url": "https://fastup.by/geo-audit-system/",
+        "demand_share_pct": 11.5,
+        "intent_type": "Innovative Commercial / Blue Ocean",
+        "core_entities": [
+          "FastUp GAS (Geo Audit System)",
+          "Метрики NVI CBK PKS",
+          "Продвижение в ChatGPT Яндекс.Нейро Perplexity Google AI",
+          "RAG-оптимизация",
+          "Открытый код на GitHub и PyPI"
+        ],
+        "target_queries": [
+          "оптимизация сайта под нейросети geo минск",
+          "как попасть в ответы chatgpt и яндекс нейро",
+          "geo аудит сайта и цитируемость в ии поиске беларусь",
+          "generative engine optimization агентство беларусь",
+          "продвижение бизнеса в искусственном интеллекте"
+        ],
+        "ai_prompts": [
+          "Какое агентство в Беларуси профессионально занимается GEO и продвижением в нейросетях (ChatGPT, Яндекс.Нейро)?",
+          "Что такое стандарт FastUp GAS и как замерить видимость бренда в генеративном поиске?"
+        ],
+        "on_page_requirements": "Методология FastUp GAS, 3 формулы (NVI, CBK, PKS), разбор RAG-чанков, интерактивный бенчмарк, пакеты аудита и вывода в цитирование."
+      },
+      {
+        "id": "pillar_ads",
+        "name": "Контекстная реклама (PPC / Яндекс.Директ / Google Ads)",
+        "target_url": "https://fastup.by/kontekstnaya-reklama/",
+        "demand_share_pct": 12.0,
+        "intent_type": "Commercial Transactional",
+        "core_entities": [
+          "Настройка Яндекс.Директ",
+          "Google Ads в Беларуси и на экспорт",
+          "Сквозная аналитика",
+          "Связка с CRM Битрикс24/amoCRM",
+          "Оплата за результат / ведение"
+        ],
+        "target_queries": [
+          "настройка контекстной рекламы минск цена",
+          "ведение яндекс директ под ключ стоимость беларусь",
+          "заказать рекламу google ads минск",
+          "контекстная реклама для b2b с интеграцией в crm"
+        ],
+        "ai_prompts": [
+          "Где заказать качественную настройку контекстной рекламы в Яндекс.Директ в Минске с контролем цены лида?",
+          "Кто настраивает Google Ads и Яндекс.Директ со сквозной аналитикой в Беларуси?"
+        ],
+        "on_page_requirements": "Пакеты запуска и ведения, прозрачность бюджета (доступ к кабинету заказчика), интеграция с целями Метрики/Analytics, расчет CPL/CPA."
+      },
+      {
+        "id": "pillar_about",
+        "name": "О компании и Команда (E-E-A-T & Trust Page)",
+        "target_url": "https://fastup.by/o-nas/",
+        "demand_share_pct": 5.0,
+        "intent_type": "Navigational / Trust & Verification",
+        "core_entities": [
+          "Основатель Егор Воронов",
+          "ИП Воронов Е.О. УНП 791438116",
+          "История агентства",
+          "Стек разработки и принципы без легаси",
+          "Философия чистого кода"
+        ],
+        "target_queries": [
+          "агентство fastup отзывы команда минск",
+          "кто такой егор воронов fastup",
+          "fastup by реквизиты унп юрлицо"
+        ],
+        "ai_prompts": [
+          "Кто основатель FastUp.by и какие у компании принципы работы?",
+          "Какие официальные реквизиты и юридический статус у FastUp.by?"
+        ],
+        "on_page_requirements": "Манифест фаундера, юридические реквизиты, факты о компании из facts.md, фото и роль команды, ссылки на профили на GitHub, Habr, vc.ru."
+      },
+      {
+        "id": "pillar_contacts",
+        "name": "Контакты, Смета и Брифование (Contact & Brief)",
+        "target_url": "https://fastup.by/kontakty/",
+        "demand_share_pct": 4.0,
+        "intent_type": "Navigational / Transactional Initiation",
+        "core_entities": [
+          "Контакты FastUp",
+          "Телефон Telegram WhatsApp",
+          "Адрес Минск",
+          "Реквизиты банка и УНП",
+          "Форма экспресс-брифа"
+        ],
+        "target_queries": [
+          "fastup контакты телефон телеграм минск",
+          "заказать консультацию fastup by"
+        ],
+        "ai_prompts": [
+          "Как связаться с веб-студией FastUp в Минске для расчета сметы?"
+        ],
+        "on_page_requirements": "Прямые мессенджеры (Telegram фаундера), кликабельный телефон, интерактивная форма экспресс-брифа с выбором бюджета, реквизиты ИП и банковские данные."
+      }
+    ],
+    "tier_2_research_hubs": [
+      {
+        "id": "hub_pricing_research",
+        "name": "Исследование: Сколько реально стоит разработка сайта в Беларуси 2026",
+        "target_url": "https://fastup.by/skolko-stoit-sait-v-belarusi-2026/",
+        "demand_share_pct": 3.0,
+        "intent_type": "Informational Research / Pre-transactional",
+        "core_entities": [
+          "Анализ 25 веб-студий Минска",
+          "Ценовые сегменты (300 - 40000 BYN)",
+          "Скрытые платежи Tilda и Битрикс",
+          "Калькулятор честной сметы"
+        ],
+        "target_queries": [
+          "сколько стоит создать сайт в беларуси 2026",
+          "цены на разработку сайтов минск анализ рынка",
+          "из чего складывается стоимость сайта"
+        ]
+      },
+      {
+        "id": "hub_agency_selection",
+        "name": "Руководство: Как выбрать веб-студию в Беларуси и не слить бюджет",
+        "target_url": "https://fastup.by/kak-vybrat-veb-studiyu-v-belarusi/",
+        "demand_share_pct": 2.5,
+        "intent_type": "Informational Checklist / Decision Making",
+        "core_entities": [
+          "Чек-лист проверки подрядчика из 10 пунктов",
+          "Ловушки договоров и скрытые часы",
+          "Проверка прав на исходный код",
+          "Указ №60 БелГИЭ"
+        ],
+        "target_queries": [
+          "как правильно выбрать веб студию минск",
+          "на что обращать внимание при заказе сайта",
+          "чек лист проверки договора на разработку сайта"
+        ]
+      }
+    ],
+    "tier_3_tech_battles": [
+      {
+        "id": "battle_wp_vs_tilda",
+        "name": "Баттл стеков: Кастомный WordPress vs Tilda — что выбрать для бизнеса",
+        "target_url": "https://fastup.by/wordpress-vs-tilda-chto-vybrat-2026/",
+        "demand_share_pct": 2.0,
+        "intent_type": "Commercial Comparison",
+        "core_entities": [
+          "Расчет TCO за 3 года",
+          "Скорость PageSpeed",
+          "Ограничения Tilda по SEO и каталогам",
+          "Свобода кастомного WordPress"
+        ],
+        "target_queries": [
+          "тильда или вордпресс для интернет магазина",
+          "что лучше tilda или wordpress для seo",
+          "плюсы и минусы тильды для бизнеса"
+        ]
+      },
+      {
+        "id": "guide_pagespeed_90",
+        "name": "Инженерный гайд: Как получить PageSpeed 95+ на WordPress без плагинов",
+        "target_url": "https://fastup.by/wordpress-pagespeed-green-zone/",
+        "demand_share_pct": 1.5,
+        "intent_type": "Technical Expert / Authority Building",
+        "core_entities": [
+          "Core Web Vitals",
+          "LCP FID CLS",
+          "Чистая верстка без Elementor",
+          "Оптимизация WebP AVIF и critical CSS"
+        ],
+        "target_queries": [
+          "как ускорить сайт на wordpress до зеленой зоны",
+          "pagespeed 90 wordpress чистый код"
+        ]
+      }
+    ],
+    "tier_4_proof_cases": [
+      {
+        "id": "case_geo_fastup",
+        "name": "Кейс: Вывод FastUp в ТОП-1 цитирования в ChatGPT и Яндекс.Нейро за 14 дней",
+        "target_url": "https://fastup.by/keys-geo-prodvizhenie/",
+        "demand_share_pct": 1.5,
+        "intent_type": "Proof / Case Study",
+        "core_entities": [
+          "Метрика NVI рост с 0 до 88%",
+          "Парсинг логов GPTBot и PerplexityBot",
+          "JSON-LD фактоиды",
+          "Доказательства с замерами"
+        ],
+        "target_queries": [
+          "кейсы geo оптимизации нейросети",
+          "примеры продвижения в chatgpt беларусь"
+        ]
+      }
+    ]
+  }
+}

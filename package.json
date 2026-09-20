@@ -1,0 +1,24 @@
+{
+  "name": "fastup-studio-demo",
+  "version": "1.0.0",
+  "description": "FastUp Studio public architecture demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "python -m pytest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djhjyjd46/fastup-studio-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djhjyjd46/fastup-studio-demo/issues"
+  },
+  "homepage": "https://github.com/djhjyjd46/fastup-studio-demo#readme",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.3.3",
+    "tailwindcss": "^4.3.3"
+  }
+}

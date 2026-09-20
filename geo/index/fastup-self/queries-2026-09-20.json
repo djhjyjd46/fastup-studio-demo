@@ -1,0 +1,152 @@
+{
+  "comment": "FastUp self measurement 2026-09-20. non_branded: те же 27 запросов, что в ручном замере 12.08 (geo/index/fastup-self/queries.md). organic_rank/organic_top10 — ЗАМЕРЕНЫ по живой выдаче Google (XMLRiver, country=2112 Беларусь) 2026-09-20, не оценка. brand/person — блоки из projects/fastup-gas/queries.example.json, нужны для CBK, PKS и PCL.",
+  "non_branded": [
+    {
+      "query": "Посоветуй веб-студию в Беларуси",
+      "organic_rank": 8,
+      "organic_top10": true
+    },
+    {
+      "query": "Лучшее агентство по разработке сайтов в Минске",
+      "organic_rank": null,
+      "organic_top10": false
+    },
+    {
+      "query": "Кому заказать сайт в Беларуси",
+      "organic_rank": null,
+      "organic_top10": false
+    },
+    {
+      "query": "Топ SEO-агентств Беларуси",
+      "organic_rank": null,
+      "organic_top10": false
+    },
+    {
+      "query": "Кто в Беларуси делает GEO-оптимизацию под нейросети",
+      "organic_rank": null,
+      "organic_top10": false
+    },
+    {
+      "query": "Кто занимается оптимизацией сайта под ChatGPT и Perplexity в Минске",
+      "organic_rank": null,
+      "organic_top10": false
+    },
+    {
+      "query": "Где заказать SEO-аудит сайта в Беларуси и что в него входит",
+      "organic_rank": null,
+      "organic_top10": false
+    },
+    {
+      "query": "Кто настроит контекстную рекламу для B2B в Беларуси",
+      "organic_rank": null,
+      "organic_top10": false
+    },
+    {
+      "query": "Агентство для комплексного ведения маркетинга малого бизнеса в Минске",
+      "organic_rank": null,
+      "organic_top10": false
+    },
+    {
+      "query": "Кто разработает интернет-магазин на заказ в Беларуси, не на конструкторе",
+      "organic_rank": null,
+      "organic_top10": false
+    },
+    {
+      "query": "Веб-студия, которая использует ИИ в своих процессах, Беларусь",
+      "organic_rank": null,
+      "organic_top10": false
+    },
+    {
+      "query": "Кастомная разработка сайта вместо Tilda и конструкторов — кто делает в Беларуси",
+      "organic_rank": null,
+      "organic_top10": false
+    },
+    {
+      "query": "Студия, которая делает сайт сразу с технической SEO-оптимизацией, Минск",
+      "organic_rank": null,
+      "organic_top10": false
+    },
+    {
+      "query": "Кто в Беларуси честно работает по SEO без гарантий топ-1",
+      "organic_rank": 1,
+      "organic_top10": true
+    },
+    {
+      "query": "Страницы сайта выпали из индекса Google — что делать",
+      "organic_rank": null,
+      "organic_top10": false
+    },
+    {
+      "query": "Почему нейросети не показывают мой сайт в ответах",
+      "organic_rank": null,
+      "organic_top10": false
+    },
+    {
+      "query": "Сайт на конструкторе тормозит и плохо ранжируется — переносить или переделывать",
+      "organic_rank": 1,
+      "organic_top10": true
+    },
+    {
+      "query": "Как проверить, видит ли ChatGPT мой сайт",
+      "organic_rank": null,
+      "organic_top10": false
+    },
+    {
+      "query": "Нужно ли SEO, если есть контекстная реклама",
+      "organic_rank": null,
+      "organic_top10": false
+    },
+    {
+      "query": "Сколько стоит разработка сайта в Беларуси в 2026 году",
+      "organic_rank": null,
+      "organic_top10": false
+    },
+    {
+      "query": "Сколько стоит SEO-продвижение в месяц в Беларуси",
+      "organic_rank": null,
+      "organic_top10": false
+    },
+    {
+      "query": "Как выбрать веб-студию и не нарваться на плохого подрядчика",
+      "organic_rank": null,
+      "organic_top10": false
+    },
+    {
+      "query": "Через сколько месяцев будет результат от SEO",
+      "organic_rank": null,
+      "organic_top10": false
+    },
+    {
+      "query": "Что входит в SEO-продвижение сайта",
+      "organic_rank": null,
+      "organic_top10": false
+    },
+    {
+      "query": "Кто делает сайты для клининговых компаний в Беларуси",
+      "organic_rank": null,
+      "organic_top10": false
+    },
+    {
+      "query": "Продвижение сайта мебельного производства в Беларуси",
+      "organic_rank": null,
+      "organic_top10": false
+    },
+    {
+      "query": "Сайт и реклама для B2B-услуг в Минске",
+      "organic_rank": null,
+      "organic_top10": false
+    }
+  ],
+  "brand": [
+    "Что такое компания FastUp в Беларуси?",
+    "Какие услуги оказывает агентство FastUp.by?",
+    "Сколько стоят услуги разработки и SEO-продвижения у FastUp?",
+    "Какие отзывы, кейсы и репутация у FastUp.by?"
+  ],
+  "person": [
+    "Кто такой Егор Воронов в сфере интернет-маркетинга в Беларуси?",
+    "Какими проектами и разработками известен специалист Егор Воронов?",
+    "Кто разработал открытый стандарт и систему GEO-аудита FastUp GAS?",
+    "Какие экспертные статьи и исследования публикует Егор Воронов?"
+  ]
+}

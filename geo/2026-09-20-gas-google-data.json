@@ -1,0 +1,415 @@
+{
+  "version": "1.4.4",
+  "timestamp": "2026-09-20T13:20:49.068330",
+  "target": {
+    "domain": "fastup.by",
+    "brand": "fastup",
+    "person": "егор воронов"
+  },
+  "non_branded_scores": [
+    {
+      "query": "Посоветуй веб-студию в Беларуси",
+      "score": 2,
+      "is_cited": true,
+      "in_organic_top10": true,
+      "organic_rank": 8,
+      "is_gap": false,
+      "sources": [
+        "https://www.pvestnik.by/kak-vybrat-web-studiju-v-belarusi-v-2026-godu-na-chto-smotret-biznesu/",
+        "https://www.newsite.by/about/news/veb-studiya-1-v-belarusi-po-versii-reytinga-bayneta-8-let-podryad-s-2018-po-2025/",
+        "https://fastup.by/kak-vybrat-veb-studiyu-v-belarusi/"
+      ]
+    },
+    {
+      "query": "Лучшее агентство по разработке сайтов в Минске",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://www.imedia.by/",
+        "https://ru.wadline.com/web/by",
+        "https://sitepro.by/faq/razrabotka/skolko-stoit-sozdat-sajt-v-minske"
+      ]
+    },
+    {
+      "query": "Кому заказать сайт в Беларуси",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://lidanews.by/news/life/49742news.html",
+        "https://to4ka.by/",
+        "https://ultraweb.by/razrabotka-saytov/"
+      ]
+    },
+    {
+      "query": "Топ SEO-агентств Беларуси",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://ratingruneta.ru/seo/belarus/",
+        "https://ratingbynet.by/ratings/seo/",
+        "https://alekzo.by/blog/top-seo-agentstvo-belarusi-2025/"
+      ]
+    },
+    {
+      "query": "Кто в Беларуси делает GEO-оптимизацию под нейросети",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://amdg.by/geo-optimization/",
+        "https://grizzly.by/seo/optimization/ai-seo-prodvizhenie-saytov",
+        "https://websfera.by/uslugi/seo/geo-prodvizhenie/"
+      ]
+    },
+    {
+      "query": "Кто занимается оптимизацией сайта под ChatGPT и Perplexity в Минске",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://byweb.by/uslugi/prodvizhenie-sajtov/optimizatsiya-ii",
+        "https://grizzly.by/seo/optimization/ai-seo-prodvizhenie-saytov",
+        "https://ariol.by/service/geo-prodvijenie-v-neyrosetyah"
+      ]
+    },
+    {
+      "query": "Где заказать SEO-аудит сайта в Беларуси и что в него входит",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://www.qmedia.by/prodvizhenie_sajtov/edinorazovye_uslugi/besplatnyj_audit_sajta_tehnicheskoe_seo.html",
+        "https://www.seologic.by/seo-audit",
+        "https://atib.by/uslugi/audit/seo-audit/"
+      ]
+    },
+    {
+      "query": "Кто настроит контекстную рекламу для B2B в Беларуси",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://cropas.by/guides/kontekstnaya-reklama-b2b/",
+        "https://www.qmedia.by/kontekstnaya_reklama.html",
+        "https://wunder-digital.by/uslugi/kontekstnaya-reklama/"
+      ]
+    },
+    {
+      "query": "Агентство для комплексного ведения маркетинга малого бизнеса в Минске",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://b2b-creative.ru/minsk/",
+        "https://seventop.by/",
+        "https://alekzo.by/"
+      ]
+    },
+    {
+      "query": "Кто разработает интернет-магазин на заказ в Беларуси, не на конструкторе",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://www.imedia.by/internet-magazin/",
+        "https://migsoft.by/web/razrabotka-internet-magazina/",
+        "https://sitepro.by/faq/razrabotka/skolko-stoit-sozdat-sajt-v-minske"
+      ]
+    },
+    {
+      "query": "Веб-студия, которая использует ИИ в своих процессах, Беларусь",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://ariol.by/",
+        "https://www.imedia.by/ai-razrabotka/",
+        "https://neg.by/novosti/otkrytj/kak-biznes-belarusi-ispolzuet-ii-trendy-2026-goda-i-riski/"
+      ]
+    },
+    {
+      "query": "Кастомная разработка сайта вместо Tilda и конструкторов — кто делает в Беларуси",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://sitepro.by/faq/razrabotka/skolko-stoit-sozdat-sajt-v-minske",
+        "https://cweb.by/razrabotka-sajtov/sajtyi-na-tilda.html",
+        "https://grizzly.by/dev/"
+      ]
+    },
+    {
+      "query": "Студия, которая делает сайт сразу с технической SEO-оптимизацией, Минск",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://www.db.by/services/seo/",
+        "https://gusarov-group.by/seo/",
+        "https://redline.by/seo-optimizatsiya.html"
+      ]
+    },
+    {
+      "query": "Кто в Беларуси честно работает по SEO без гарантий топ-1",
+      "score": 3,
+      "is_cited": true,
+      "in_organic_top10": true,
+      "organic_rank": 1,
+      "is_gap": false,
+      "sources": [
+        "https://fastup.by/seo-pricing-mesyats-belarus/",
+        "https://seopilot.by/blog/gde-garantii-chestno-o-seo-i-ozhidaniyakh-biznesa",
+        "https://alekzo.by/seo/young-site/"
+      ]
+    },
+    {
+      "query": "Страницы сайта выпали из индекса Google — что делать",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://habr.com/ru/articles/1000762/",
+        "https://mellodesign.ru/blogs/pochemu-stranicy-sajta-vypadayut-iz-indeksa",
+        "https://seo-studio.ua/ru/blog/index-lost"
+      ]
+    },
+    {
+      "query": "Почему нейросети не показывают мой сайт в ответах",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://association.by/vashego-sajta-net-v-otvetah-ai-wunder-digital",
+        "https://wunder-digital.by/kak-popast-v-otvety-chatgpt-gemini-i-drugih-nejrosetej-rukovodstvo-po-optimizatsii-sajta/",
+        "https://ai.pixeltools.ru/blog/pochemu-vash-kontent-ne-popadaet-v-ai-poisk-i-kak-eto-ispravit"
+      ]
+    },
+    {
+      "query": "Сайт на конструкторе тормозит и плохо ранжируется — переносить или переделывать",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": true,
+      "organic_rank": 1,
+      "is_gap": true,
+      "sources": []
+    },
+    {
+      "query": "Как проверить, видит ли ChatGPT мой сайт",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://www.reddit.com/r/SEO/comments/1hpuxes/can_you_track_if_your_url_is_referenced_by_chatgpt/?tl=ru"
+      ]
+    },
+    {
+      "query": "Нужно ли SEO, если есть контекстная реклама",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://habr.com/ru/articles/726992/",
+        "https://www.qmedia.by/blog/pochemu_seo_i_kontekstnaya_reklama_dolzhny_rabotat_vmeste.html",
+        "https://amdg.by/blog/seo-ili-kontekstnaya-reklama-kakoy-tip-prodvizheniya-vybrat/"
+      ]
+    },
+    {
+      "query": "Сколько стоит разработка сайта в Беларуси в 2026 году",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://flammaweb.by/skolko-stoit-sozdanie-sajta-polnoe-rukovodstvo-po-czenoobrazovaniyu-v-belarusi/",
+        "https://redportal.by/faq/development/skolko-stoit-sozdanie-sajta-2026",
+        "https://www.shopify.com/by/blog/how-much-does-a-website-cost"
+      ]
+    },
+    {
+      "query": "Сколько стоит SEO-продвижение в месяц в Беларуси",
+      "score": 2,
+      "is_cited": true,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://bmg.by/blog/seo/skolko-stoit-prodvinut-sajt/",
+        "https://seopilot.by/blog/seo-prodvizhenie-sajta-cena",
+        "https://fastup.by/seo-pricing-mesyats-belarus/"
+      ]
+    },
+    {
+      "query": "Как выбрать веб-студию и не нарваться на плохого подрядчика",
+      "score": 2,
+      "is_cited": true,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://www.sostav.ru/blogs/291589/103435",
+        "https://fastup.by/kak-vybrat-veb-studiyu-v-belarusi/",
+        "https://sheer.ru/kak-vybrat-veb-studiyu-i-ne-obzhechsya/"
+      ]
+    },
+    {
+      "query": "Через сколько месяцев будет результат от SEO",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://www.reddit.com/r/localseo/comments/1rsfo9l/how_long_does_it_take_to_see_results_from_seo/?tl=ru",
+        "https://callibri.ru/blog/kogda-zhdat-resultaty-seo",
+        "https://www.sostav.ru/blogs/292522/104387"
+      ]
+    },
+    {
+      "query": "Что входит в SEO-продвижение сайта",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://skillbox.ru/media/marketing/chto-takoe-seo-kak-rabotaet-skolko-stoit-i-kakie-rezultaty-mozhet-prinesti/",
+        "https://www.promowebcom.by/analytics/articles/seo/chto-takoe-seo-prodvizhenie-i-kak-rabotaet-poiskovaya-optimizatsiya/",
+        "https://tilda.education/articles-how-seo-works"
+      ]
+    },
+    {
+      "query": "Кто делает сайты для клининговых компаний в Беларуси",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://sitepro.by/faq/razrabotka/kak-sozdat-sajt-dlya-kliningovoj-kompanii",
+        "https://design.megagroup.by/solution/professionalnaya_uborka_klining",
+        "https://sitepro.by/faq/razrabotka/kak-sozdat-sajt-dlya-klininga-ofisov"
+      ]
+    },
+    {
+      "query": "Продвижение сайта мебельного производства в Беларуси",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://www.ashmanov.com/education/articles/kak-prodvigat-magazin-mebeli-prakticheskie-rekomendatsii/",
+        "https://barsukov.by/seo/seo-prodvizhenie-sajta-mebeli/",
+        "https://websfera.by/uslugi/seo/prodvizhenie-mebelnyh-saytov/"
+      ]
+    },
+    {
+      "query": "Сайт и реклама для B2B-услуг в Минске",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://highlight.by/b2b/",
+        "https://atib.by/uslugi/reklama-v-internete/kontekstnaya-reklama/",
+        "https://fin.kartoteka.by/b2b"
+      ]
+    }
+  ],
+  "brand_scores": [
+    {
+      "query": "Что такое компания FastUp в Беларуси?",
+      "score": 3,
+      "text_snippet": "Для этого запроса обзор от ИИ недоступен. Не удалось сгенерировать обзор с помощью искусственного интеллекта. Повторите попытку позже. Обзор от ИИ Отв"
+    },
+    {
+      "query": "Какие услуги оказывает агентство FastUp.by?",
+      "score": 3,
+      "text_snippet": "Для этого запроса обзор от ИИ недоступен. Не удалось сгенерировать обзор с помощью искусственного интеллекта. Повторите попытку позже. Обзор от ИИ Отв"
+    },
+    {
+      "query": "Сколько стоят услуги разработки и SEO-продвижения у FastUp?",
+      "score": 3,
+      "text_snippet": "Для этого запроса обзор от ИИ недоступен. Не удалось сгенерировать обзор с помощью искусственного интеллекта. Повторите попытку позже. Обзор от ИИ Отв"
+    },
+    {
+      "query": "Какие отзывы, кейсы и репутация у FastUp.by?",
+      "score": 3,
+      "text_snippet": "Для этого запроса обзор от ИИ недоступен. Не удалось сгенерировать обзор с помощью искусственного интеллекта. Повторите попытку позже. Обзор от ИИ Отв"
+    }
+  ],
+  "person_scores": [
+    {
+      "query": "Кто такой Егор Воронов в сфере интернет-маркетинга в Беларуси?",
+      "score": 0,
+      "text_snippet": ""
+    },
+    {
+      "query": "Какими проектами и разработками известен специалист Егор Воронов?",
+      "score": 3,
+      "text_snippet": "Для этого запроса обзор от ИИ недоступен. Не удалось сгенерировать обзор с помощью искусственного интеллекта. Повторите попытку позже. Обзор от ИИ Отв"
+    },
+    {
+      "query": "Кто разработал открытый стандарт и систему GEO-аудита FastUp GAS?",
+      "score": 2,
+      "text_snippet": "Для этого запроса обзор от ИИ недоступен. Не удалось сгенерировать обзор с помощью искусственного интеллекта. Повторите попытку позже. Обзор от ИИ Отв"
+    },
+    {
+      "query": "Какие экспертные статьи и исследования публикует Егор Воронов?",
+      "score": 3,
+      "text_snippet": "Для этого запроса обзор от ИИ недоступен. Не удалось сгенерировать обзор с помощью искусственного интеллекта. Повторите попытку позже. Обзор от ИИ Отв"
+    }
+  ],
+  "pcl_score": 0,
+  "scg_details": {
+    "total_queries": 27,
+    "top10_organic_count": 3,
+    "gap_count": 1,
+    "mode": "verified_serp"
+  },
+  "metrics": {
+    "NVI": 11.1,
+    "CBK": 100.0,
+    "PKS": 66.7,
+    "PCL": 0,
+    "SCG": 33.3
+  },
+  "engine": "google"
+}

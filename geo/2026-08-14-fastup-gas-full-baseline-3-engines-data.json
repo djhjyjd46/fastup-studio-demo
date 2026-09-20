@@ -1,0 +1,1756 @@
+{
+  "metadata": {
+    "date": "2026-08-14",
+    "timestamp": "2026-08-14 14:52:51",
+    "standard_version": "FastUp GAS v1.4.2",
+    "engines": [
+      "ChatGPT (GPT-4o-mini)",
+      "Яндекс (Official Cloud Search API v2)",
+      "Google (BY)"
+    ],
+    "target": "fastup.by",
+    "region": "Belarus / Minsk",
+    "total_queries": 44
+  },
+  "scorecard": {
+    "overall": {
+      "nvi_comm": 13.9,
+      "nvi_edit": 24.5,
+      "nvi_total": 19.7,
+      "cbk": 100.0,
+      "pks": 88.9,
+      "pcl_total": 12
+    },
+    "by_engine": {
+      "chatgpt": {
+        "nvi_comm": 0.0,
+        "nvi_edit": 1.7,
+        "nvi_total": 0.9,
+        "cbk": 100.0,
+        "pks": 75.0,
+        "pcl": 1
+      },
+      "yandex": {
+        "nvi_comm": 41.7,
+        "nvi_edit": 45.0,
+        "nvi_total": 43.5,
+        "cbk": 100.0,
+        "pks": 91.7,
+        "pcl": 4
+      },
+      "google": {
+        "nvi_comm": 0.0,
+        "nvi_edit": 26.7,
+        "nvi_total": 14.8,
+        "cbk": 100.0,
+        "pks": 100.0,
+        "pcl": 7
+      }
+    }
+  },
+  "items": [
+    {
+      "id": 1,
+      "layer": "commercial",
+      "cluster": "GEO & ИИ-продвижение",
+      "target_url": "https://fastup.by/geo-prodvizhenie/",
+      "query": "Кто в Беларуси делает GEO-продвижение под нейросети и ИИ?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 4,
+          "content_preview": "В Беларуси несколько компаний занимаются GEO-продвижением с использованием технологий нейросетей и искусственного интеллекта. Вот некоторые из них:\n\n1. **\"BeActive\"**\n   - Специализируется на digital-маркетинге и SEO, включая GEO-продвижение.\n   - Са"
+        },
+        "yandex": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [
+            "amdg"
+          ],
+          "citations_count": 10,
+          "content_preview": " (https://fastup.by/geo-prodvizhenie/) \n  (https://brandplatform.by/articles/geo-prodvizhenie-sajta-v-belarusi-2026-podborka-agentstv-i-sovety-ekspertov/) \n  (https://grizzly.by/seo/optimization/ai-seo-prodvizhenie-saytov) \n  (https://webmart.by/seo/"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [
+            "qmedia",
+            "amdg"
+          ],
+          "citations_count": 9,
+          "content_preview": "GEO продвижение в Беларуси | Оптимизация под ...:  \n GEO-продвижение сайта в нейросетях - Qmedia:  \n GEO продвижение сайтов - Минск - Digital агентство Grizzly:  \n GEO-продвижение: как попасть в ответы ИИ:  \n GEO-продвижение: как попасть в ответы ИИ,"
+        }
+      },
+      "avg_score": 1.0
+    },
+    {
+      "id": 2,
+      "layer": "commercial",
+      "cluster": "GEO & ИИ-продвижение",
+      "target_url": "https://fastup.by/geo-prodvizhenie/",
+      "query": "Где заказать продвижение сайта в ChatGPT и Яндекс Нейро в Минске?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 4,
+          "content_preview": "В Минске есть несколько компаний, которые предлагают услуги по продвижению сайтов, включая работу с искусственным интеллектом, таким как ChatGPT и Яндекс Нейро. Вот некоторые из них:\n\n1. **A2B** \n   - Услуги: SEO-продвижение, контекстная реклама, ада"
+        },
+        "yandex": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [
+            "qmedia"
+          ],
+          "citations_count": 10,
+          "content_preview": "GEO- (https://fastup.by/geo-prodvizhenie/) \n  (https://cusenus.by/) \n GEO- (https://webmart.by/seo/geo-prodvizhenie) \n  (https://seaccelerator.ru/seo/ai) \n  (https://ziex.by/prodvizhenie-sajta-v-nejrosetyah) \n GEO  (https://grizzly.by/seo/optimizatio"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [
+            "amdg"
+          ],
+          "citations_count": 9,
+          "content_preview": "Продвижение сайта в нейросетях ИИ в Минске, по всей ...:  \n GEO-продвижение в Минске под ключ:  \n GEO продвижение сайтов - Минск - Digital агентство Grizzly:  \n Продвижение сайтов, seo в Минске на карте рядом со ...:  \n GEO продвижение в нейросетях -"
+        }
+      },
+      "avg_score": 1.0
+    },
+    {
+      "id": 3,
+      "layer": "commercial",
+      "cluster": "GEO & ИИ-продвижение",
+      "target_url": "https://fastup.by/geo-prodvizhenie/",
+      "query": "Сколько стоит оптимизация сайта под ИИ-поиск и нейросети в Беларуси?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 3,
+          "content_preview": "Оптимизация сайта под ИИ-поиск и нейросети в Беларуси может варьироваться в зависимости от сложности проекта и опыта компании. В среднем, цены на такие услуги могут составлять:\n\n1. **Малые агентства или фрилансеры**: от 500 до 1500 белорусских рублей"
+        },
+        "yandex": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": "GEO-продвижение в  (https://fastup.by/geo-prodvizhenie/) \n GEO  (https://www.promowebcom.by/services/seo/geo/) \n SEO-продвижение и раскрутка  (https://seo-akademiya.by/uslugi/prodvizhenie-saytov/) \n GEO-продвижение  (https://webmart.by/seo/geo-prodvi"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [
+            "amdg"
+          ],
+          "citations_count": 9,
+          "content_preview": "GEO продвижение сайтов - Минск - Digital агентство Grizzly:  \n AI SEO — продвижение сайтов в эпоху ИИ в Беларуси:  \n GEO оптимизация сайта (оптимизации под ИИ-ответы):  \n SEO-тренды 2025: как AI и машинное обучение меняют ...:  \n Продвижение сайта в "
+        }
+      },
+      "avg_score": 1.0
+    },
+    {
+      "id": 4,
+      "layer": "commercial",
+      "cluster": "GEO & ИИ-продвижение",
+      "target_url": "https://fastup.by/geo-prodvizhenie/",
+      "query": "Какое агентство в Минске специализируется на оптимизации под LLM и Generative Engine Optimization?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 1,
+          "content_preview": "На данный момент в Минске существует несколько компаний, которые занимаются оптимизацией под LLM (Large Language Models) и генеративные технологии. Одной из известных компаний, работающих в этой области, является **\"Вертекс\"** (Vertex).\n\n### Вертекс\n"
+        },
+        "yandex": {
+          "score": 2,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": "GEO  (https://www.promowebcom.by/services/seo/geo/) \n GEO-продвижение в ИИ-поисковиках в Беларуси | FastUp (https://fastup.by/geo-prodvizhenie/) \n  (https://truetech.by/ai-development/services/llm) \n Комплексное SEO-Продвижение в Больших Языковых Мод"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [
+            "amdg"
+          ],
+          "citations_count": 9,
+          "content_preview": "Продвижение сайта в генеративном поиске (GEO):  \n GEO оптимизация сайта (оптимизации под ИИ-ответы):  \n Топ-10 агентств по GEO-продвижению (Generative ...:  \n GEO продвижение в нейросетях - Минск - Ariol:  \n GEO, AIO, AEO: полевое руководство по опти"
+        }
+      },
+      "avg_score": 0.67
+    },
+    {
+      "id": 5,
+      "layer": "commercial",
+      "cluster": "Разработка сайтов",
+      "target_url": "https://fastup.by/razrabotka-saitov/",
+      "query": "Кому заказать разработку корпоративного сайта под ключ в Минске?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 5,
+          "content_preview": "В Минске есть несколько компаний, которые предлагают услуги по разработке корпоративных сайтов под ключ. Вот некоторые из них:\n\n1. **Веб-студия \"Атлант\"**\n   - Описание: Предлагают услуги по разработке сайтов любой сложности, включая корпоративные.\n "
+        },
+        "yandex": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": " (https://uslugi.yandex.ru/157-minsk/category/kompyuteryi-i-it/sajtyi-pod-klyuch/korporativnyij-sajt--349) \n  (https://www.imedia.by/korporativnyi-site/) \n  (https://likeit.pro/services/razrabotka-saytov/) \n  (https://workspace.ru/minsk/web-developme"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [
+            "gusarov"
+          ],
+          "citations_count": 9,
+          "content_preview": "Создание сайтов в Минске, разработка сайта под ключ ...:  \n Создание сайтов под ключ в Минске, заказать разработку ...:  \n Разработка корпоративного сайта (под ключ) заказать в ...:  \n Разработка сайтов в Минске под ключ:  \n Создание корпоративных са"
+        }
+      },
+      "avg_score": 0.0
+    },
+    {
+      "id": 6,
+      "layer": "commercial",
+      "cluster": "Разработка сайтов",
+      "target_url": "https://fastup.by/razrabotka-saitov/",
+      "query": "Где заказать быстрый сайт на WordPress без конструкторов в Беларуси?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 5,
+          "content_preview": "В Беларуси есть несколько компаний и фрилансеров, которые предлагают услуги по созданию сайтов на WordPress без использования конструкторов. Вот несколько вариантов:\n\n1. **Studio B**  \n   - Услуги: Разработка сайтов на WordPress, индивидуальный подхо"
+        },
+        "yandex": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": "Разработка  (https://fastup.by/razrabotka-saitov/) \n  (https://nixi.by/) \n Разработка  (https://uslugi.yandex.ru/157-minsk/category?text=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0+%D1%81%D0%B0%D0%B9%D1%82%D0%B0+%D0%BD%D0%B0+wordpres"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 9,
+          "content_preview": "Заказать разработку сайта на Wordpress в Минске:  \n Как создать сайт на WordPress без конструктора ...:  \n Сколько стоит сделать сайт на WordPress?:  \n Создание сайта на WordPress 2026: Пошаговый гайд с нуля:  \n Конструктор сайтов бесплатно в Беларус"
+        }
+      },
+      "avg_score": 1.0
+    },
+    {
+      "id": 7,
+      "layer": "commercial",
+      "cluster": "Разработка сайтов",
+      "target_url": "https://fastup.by/razrabotka-saitov/",
+      "query": "Сколько стоит качественная веб-разработка сайта в Минске в 2026 году?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 3,
+          "content_preview": "К сожалению, я не могу предоставить актуальные данные за 2026 год, так как мои знания актуальны только до октября 2023 года. На тот момент стоимость веб-разработки в Минске колебалась в зависимости от требований проекта и уровня сложности.\n\nВ 2023 го"
+        },
+        "yandex": {
+          "score": 2,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": " (https://webart.by/blog/skolko-stoit-razrabotka-sayta-belarus-2026) \n  (https://maximov.by/website-cost-guide-ru.html) \n  (https://dspace.by/blog/skolko-stoit-sozdanie-sayta-v-belarusi-v-2026-godu) \n  (https://fastup.by/skolko-stoit-sait-v-belarusi-"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 9,
+          "content_preview": "Заказать сайт в Минске. Сделать веб-сайт под ключ:  \n Сколько стоит сайт в Беларуси в 2026: цены и сроки:  \n Сколько стоит создание сайта в 2026 году:  \n Сколько стоит создать сайт в Минске?:  \n Сколько стоит создание сайта в 2026 году: полный гайд: "
+        }
+      },
+      "avg_score": 0.67
+    },
+    {
+      "id": 8,
+      "layer": "commercial",
+      "cluster": "Разработка сайтов",
+      "target_url": "https://fastup.by/razrabotka-saitov/",
+      "query": "Какая веб-студия в Беларуси делает сайты с гарантией высокой скорости PageSpeed?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 5,
+          "content_preview": "В Беларуси есть несколько веб-студий, которые предлагают услуги по разработке сайтов с акцентом на скорость загрузки и производительность. Вот несколько компаний, которые могут предложить такие услуги:\n\n1. **Web-Studio**  \n   - **Описание**: Эта студ"
+        },
+        "yandex": {
+          "score": 2,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": "Ускорение  (https://byweb.by/uslugi/uskorenie-sajta) \n Ускорение  (https://spartan.by/services/pagespeed) \n  (https://pagespeed.web.dev/) \n Разработка лендинга под ключ — от 190 BYN | WebArt.by (https://webart.by/services/landing-page-odnostranichnik"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [
+            "qmedia"
+          ],
+          "citations_count": 9,
+          "content_preview": "Ускорение сайта и оптимизация:  \n Ускорение сайта Google PageSpeed Insights - ByWeb:  \n Создание сайтов в Минске - от 360 р. за разработку сайта:  \n Увеличение скорости сайта:  \n Google PageSpeed Insight - Оптимизация скорости сайта:  \n Веб-разработк"
+        }
+      },
+      "avg_score": 0.67
+    },
+    {
+      "id": 9,
+      "layer": "commercial",
+      "cluster": "SEO-продвижение",
+      "target_url": "https://fastup.by/seo-prodvizhenie/",
+      "query": "Кто честно делает SEO-продвижение сайта в Минске без пустых обещаний и накруток?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 5,
+          "content_preview": "В Минске есть несколько компаний, которые заслужили репутацию за качественное и честное SEO-продвижение без пустых обещаний. Вот несколько из них:\n\n1. **Studio Tactics**\n   - Описание: Агентство, которое предлагает комплексные услуги по SEO, включая "
+        },
+        "yandex": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [
+            "gusarov"
+          ],
+          "citations_count": 12,
+          "content_preview": " (https://seaccelerator.ru/) \n  (https://cropas.by/) \n Частный  (https://ai-seo.ru/) \n Заказать  (https://sitevam.com/prodvizhenie-saytov-v-belarusi) \n  (https://uslugi.yandex.ru/157-minsk/category?text=seo+%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 9,
+          "content_preview": "Seo продвижение сайтов в Минске по доступным ценам:  \n Частный Seo специалист - Интернет-маркетинг:  \n Продвижение сайтов в Минске - SEO под ключ:  \n заказать SEO продвижение сайта, цена - Минск:  \n SEO-продвижение с оплатой за результат (по факту) в"
+        }
+      },
+      "avg_score": 0.0
+    },
+    {
+      "id": 10,
+      "layer": "commercial",
+      "cluster": "SEO-продвижение",
+      "target_url": "https://fastup.by/seo-prodvizhenie/",
+      "query": "Где заказать комплексный SEO-аудит сайта в Беларуси?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 5,
+          "content_preview": "В Беларуси есть несколько компаний, которые предлагают услуги комплексного SEO-аудита сайтов. Вот несколько из них:\n\n1. **Webpizda**\n   - Описание: Предлагают полный спектр услуг по SEO, включая аудит сайтов.\n   - Сайт: [webpizda.by](https://webpizda"
+        },
+        "yandex": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [
+            "gusarov"
+          ],
+          "citations_count": 10,
+          "content_preview": " (https://cropas.by/audit-sajta/) \n  (https://alekzo.by/site-audit/search/) \n  (https://tu.by/seo-audit/) \n  (https://wunder-digital.by/uslugi/seo/seo-audit-sajta/) \n Технический  (https://gusarov-group.by/seo/seo-audit/) \n  (https://www.promowebcom."
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 9,
+          "content_preview": "SEO-аудит сайта, заказать SEO-аудит в Минске и ...:  \n Технический SEO аудит сайта в Минске - Wunder Digital:  \n Аудит сайта заказать в Минске, проведение анализа ...:  \n Аудит сайта Минске | Заказать технический SEO (СЕО) ...:  \n Анализ сайта | Зака"
+        }
+      },
+      "avg_score": 0.0
+    },
+    {
+      "id": 11,
+      "layer": "commercial",
+      "cluster": "SEO-продвижение",
+      "target_url": "https://fastup.by/seo-prodvizhenie/",
+      "query": "Сколько стоит SEO-продвижение сайта для малого бизнеса в Минске в месяц?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 4,
+          "content_preview": "Стоимость SEO-продвижения сайта для малого бизнеса в Минске варьируется в зависимости от компании и объема услуг. В среднем, месячные тарифы на SEO-услуги колеблются от 200 до 800 белорусских рублей. \n\nНекоторые потолочные значения могут достигать до"
+        },
+        "yandex": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [
+            "gusarov"
+          ],
+          "citations_count": 10,
+          "content_preview": " (https://inprocess.by/uslugi/prodvizhenie-sajtov/) \n  (https://cropas.by/) \n  (https://sitepro.by/faq/prodvizhenie-i-marketing/skolko-stoit-prodvizhenie-sajta-v-minske) \n  (https://bmg.by/blog/seo/skolko-stoit-prodvinut-sajt/) \n  (https://websfera.b"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [
+            "qmedia"
+          ],
+          "citations_count": 9,
+          "content_preview": "Сколько стоит продвижение сайта в Минске?:  \n SEO-продвижение сайта в Google и Яндекс - Минск - Qmedia:  \n SEO-продвижение сайтов в Минске | Цена на услуги ...:  \n SEO продвижение сайта в Минске - цена, заказать:  \n Стоимость SEO продвижения в Минске"
+        }
+      },
+      "avg_score": 0.0
+    },
+    {
+      "id": 12,
+      "layer": "commercial",
+      "cluster": "SEO-продвижение",
+      "target_url": "https://fastup.by/seo-prodvizhenie/",
+      "query": "Какое SEO-агентство в Беларуси работает по модели белого продвижения и структурированных данных?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 2,
+          "content_preview": "Одним из SEO-агентств в Беларуси, которое работает по модели белого продвижения и активно использует структурированные данные, является агентство **\"iMarTech\"**. Они предоставляют услуги по оптимизации сайтов, включая внедрение структурированных данн"
+        },
+        "yandex": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [
+            "gusarov",
+            "ratingbynet",
+            "webslon"
+          ],
+          "citations_count": 10,
+          "content_preview": " (https://www.seologic.by/seo) \n  (https://seo-akademiya.by/uslugi/prodvizhenie-saytov/) \n  (https://www.imedia.by/prodvizhenie-saitov/) \n  (https://edugusarov.com/ru/seo/seo-prodvizhenie-minsk/) \n  (https://webslon.by/uslugi/prodvizhenie-i-optimizac"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 0,
+          "content_preview": ""
+        }
+      },
+      "avg_score": 0.0
+    },
+    {
+      "id": 13,
+      "layer": "commercial",
+      "cluster": "Контекстная реклама & Дизайн",
+      "target_url": "https://fastup.by/kontekstnaya-reklama/",
+      "query": "Кто профессионально настроит контекстную рекламу Яндекс Директ и Google Ads для B2B в Минске?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 5,
+          "content_preview": "В Минске есть несколько компаний и специалистов, которые профессионально занимаются настройкой контекстной рекламы в Яндекс Директ и Google Ads для B2B. Вот некоторые из них:\n\n1. **Adverteam**\n   - Описание: Агентство интернет-маркетинга, специализир"
+        },
+        "yandex": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [
+            "gusarov",
+            "qmedia",
+            "webslon",
+            "amdg"
+          ],
+          "citations_count": 13,
+          "content_preview": " (https://uslugi.yandex.ru/157-minsk/category?text=%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0+%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D0%BE%D0%B9+%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B+%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 0,
+          "content_preview": ""
+        }
+      },
+      "avg_score": 0.0
+    },
+    {
+      "id": 14,
+      "layer": "commercial",
+      "cluster": "Контекстная реклама & Дизайн",
+      "target_url": "https://fastup.by/kontekstnaya-reklama/",
+      "query": "Сколько стоит настройка и ведение контекстной рекламы в Беларуси под ключ?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 3,
+          "content_preview": "Стоимость настройки и ведения контекстной рекламы в Беларуси может варьироваться в зависимости от компании, объема работы и специфики бизнеса. Обычно цена за услуги под ключ колеблется в следующих пределах:\n\n1. **Настройка рекламы**: от 300 до 1000 б"
+        },
+        "yandex": {
+          "score": 2,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": false,
+          "competitors": [
+            "gusarov",
+            "amdg"
+          ],
+          "citations_count": 10,
+          "content_preview": " (https://cropas.by/kontekstnaya-reklama/) \n  (https://cropas.by/kontekstnaya-reklama-v-belarusi/) \n  (https://fastup.by/kontekstnaya-reklama/) \n Заказать  (https://sitehub.by/services/context-reklama/) \n  (https://uslugi.yandex.ru/157-minsk/category"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [
+            "gusarov",
+            "amdg"
+          ],
+          "citations_count": 9,
+          "content_preview": "Настройка контекстной рекламы в Минске:  \n Контекстная реклама - Digital-агентство CWEB:  \n Сколько стоит контекстная реклама в Беларуси в 2025 ...:  \n Контекстная реклама в Минске и в РБ! Заказать настройку ...:  \n Сколько стоит контекстная реклама "
+        }
+      },
+      "avg_score": 0.67
+    },
+    {
+      "id": 15,
+      "layer": "commercial",
+      "cluster": "Контекстная реклама & Дизайн",
+      "target_url": "https://fastup.by/graficheskiy-i-veb-dizayn/",
+      "query": "Где заказать современный UI/UX дизайн сайта или ребрендинг в Минске?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 6,
+          "content_preview": "В Минске есть несколько компаний, которые предлагают услуги по разработке современного UI/UX дизайна и ребрендингу. Вот некоторые из них:\n\n1. **A1**  \n   - **Услуги**: UI/UX дизайн, разработка бренда, ребрендинг.  \n   - **Сайт**: [a1design.by](https:"
+        },
+        "yandex": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": " (https://www.imedia.by/sozdanie-saitov/redizayn-saytov/) \n Брендинговое агентство Fabula - брендинг и нейминг в Беларуси. (https://fabula.by/) \n  (https://ergosolut.by/services/services-dizayn-ui-ux/) \n  (https://branch-design.by/dizayn-interfeysa-u"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 9,
+          "content_preview": "UI-дизайн сайтов и приложений - Минск:  \n Дизайн сайта в Минске | Заказать разработку UX-UI ...:  \n ᐅ Курсы UI/UX дизайна в Минске обучение ...:  \n UX/UI дизайн веб-сайтов:  \n Интерфейс (UX, UI) - Минск:  \n Разработка дизайна сайта в Минске:  \n UX/UI"
+        }
+      },
+      "avg_score": 0.0
+    },
+    {
+      "id": 16,
+      "layer": "commercial",
+      "cluster": "Контекстная реклама & Дизайн",
+      "target_url": "https://fastup.by/graficheskiy-i-veb-dizayn/",
+      "query": "Какая студия в Беларуси разрабатывает адаптивный дизайн сайта под мобильные устройства?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 5,
+          "content_preview": "В Беларуси существует множество студий, которые предлагают услуги по разработке адаптивного дизайна сайтов. Вот несколько из них:\n\n1. **Атлантид**  \n   - Описание: Веб-студия, занимающаяся дизайном и разработкой сайтов с учетом мобильных устройств.  "
+        },
+        "yandex": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [
+            "gusarov"
+          ],
+          "citations_count": 10,
+          "content_preview": " (https://www.imedia.by/sozdanie-saitov/adaptivnyy-dizayn/) \n Создание  (https://9n.by/uslugi/mobilnaya-versiya-sajta/) \n  (https://adena.by/services/razrabotka-internet-magazinov-i-saytov/razrabotka-adaptivnykh-i-mobilnykh-sajtov/) \n  (https://teamh"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [
+            "qmedia"
+          ],
+          "citations_count": 9,
+          "content_preview": "Адаптивный веб-дизайн сайта - Минск:  \n Адаптивный дизайн для сайта, верстка. Разработка ...:  \n Адаптивная вёрстка сайта: что это, преимущества:  \n Мобильная версия сайта и адаптивный дизайн: в чём ...:  \n Адаптивный дизайн, Как создать сайт, интерн"
+        }
+      },
+      "avg_score": 0.0
+    },
+    {
+      "id": 17,
+      "layer": "editorial",
+      "cluster": "Оптимизация PageSpeed",
+      "target_url": "https://fastup.by/wordpress-v-zelenuyu-zonu-pagespeed/",
+      "query": "Как вывести сайт на WordPress в зелёную зону PageSpeed 90+ без плагинов-комбайнов?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 2,
+          "content_preview": "Чтобы вывести сайт на WordPress в зелёную зону PageSpeed (90+), можно выполнить следующие шаги без использования плагинов-комбайнов:\n\n### 1. Выбор качественного хостинга\n- **Надежный хостинг** — убедитесь, что ваш сайт размещён на быстром и надежном "
+        },
+        "yandex": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": " (https://fastup.by/wordpress-pagespeed-zelenaya-zona/) \n Как ускорить  (https://habr.com/ru/companies/first/articles/704350/) \n Как выжать 99 из 100 в  (https://webindex.su/99-pagespeed-wordpress-guide/) \n Загоняем  (https://www.youtube.com/watch?v="
+        },
+        "google": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 8,
+          "content_preview": "Как вывести WordPress в зелёную зону Google ...:  \n Сайт на Wordpress VS PageSpeed Insights:  \n Зелёная» зона в PageSpeed: как оптимизировать сайт и ...:  \n Выводим сайт в зелёную зону PageSpeed Insights:  \n Как разогнать сайт на Wordpress в Google P"
+        }
+      },
+      "avg_score": 2.0
+    },
+    {
+      "id": 18,
+      "layer": "editorial",
+      "cluster": "Оптимизация PageSpeed",
+      "target_url": "https://fastup.by/wordpress-v-zelenuyu-zonu-pagespeed/",
+      "query": "Кто в Беларуси оптимизирует скорость загрузки WordPress и Core Web Vitals до 100 баллов?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 3,
+          "content_preview": "В Беларуси есть несколько компаний и фрилансеров, которые специализируются на оптимизации веб-сайтов на платформе WordPress и улучшают показатели Core Web Vitals. Вот несколько из них:\n\n1. **WebMinds**\n   - Описание: Команда профессионалов, занимающи"
+        },
+        "yandex": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": "Ускорение сайта под ключ: превращаем посетителей в клиентов (https://outlet-center.by/product/uskorenie-skorosti-zagruzki-sajta/) \n Ускорение сайта на  (https://spartan.by/services/pagespeed) \n Как ускорить сайт на  (https://wppro.by/blog/kak-uskorit"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [
+            "gusarov",
+            "amdg"
+          ],
+          "citations_count": 9,
+          "content_preview": "Ускорение сайта на WordPress | Спартан - Spartan.by:  \n Как ускорить свои WordPress сайты?:  \n Зачем необходима оптимизация скорости загрузки сайта:  \n Core Web Vitals: скорость сайта превыше всего?:  \n Как разогнать сайт на Wordpress в Google PageSp"
+        }
+      },
+      "avg_score": 0.0
+    },
+    {
+      "id": 19,
+      "layer": "editorial",
+      "cluster": "Выбор веб-студии",
+      "target_url": "https://fastup.by/kak-vybrat-veb-studiyu-v-belarusi/",
+      "query": "Как правильно выбрать надёжную веб-студию для создания сайта в Беларуси чек-лист?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 3,
+          "content_preview": "Выбор надежной веб-студии для создания сайта в Беларуси требует тщательной оценки. Вот чек-лист, который поможет вам сделать правильный выбор:\n\n### 1. Опыт и портфолио\n- **Опыт работы**: Убедитесь, что студия работает на рынке не менее 3-5 лет.\n- **П"
+        },
+        "yandex": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [
+            "ratingbynet"
+          ],
+          "citations_count": 11,
+          "content_preview": " (https://fastup.by/kak-vybrat-veb-studiyu-v-belarusi/) \n Как  (https://flammaweb.by/kak-vybrat-veb-studiyu-dlya-sozdaniya-sajta/) \n Топ рейтинг  (https://ratingbynet.by/ratings/web/2025/) \n Гайд по  (https://bmg.by/guides/contractor/) \n ТОП-25  (htt"
+        },
+        "google": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 9,
+          "content_preview": "Как правильно выбрать веб-студию для создания сайта ...:  \n Как выбрать веб-студию для создания сайта | Чек-лист:  \n Полный чек-лист по созданию бизнес-сайта - beSeller:  \n Как выбрать веб-студию в 2026: чеклист и красные флаги:  \n Как выбрать веб-ст"
+        }
+      },
+      "avg_score": 2.0
+    },
+    {
+      "id": 20,
+      "layer": "editorial",
+      "cluster": "Выбор веб-студии",
+      "target_url": "https://fastup.by/kak-vybrat-veb-studiyu-v-belarusi/",
+      "query": "На что обращать внимание при выборе подрядчика по созданию сайта в Минске?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 3,
+          "content_preview": "При выборе подрядчика по созданию сайта в Минске важно обратить внимание на следующие аспекты:\n\n1. **Портфолио**: Изучите примеры работ компании. Обратите внимание на качество дизайна, функциональность сайтов и их соответствие современным требованиям"
+        },
+        "yandex": {
+          "score": 2,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 11,
+          "content_preview": "Как выбрать агентство или фрилансера для разработки  (https://bmg.by/blog/sites/kak-vybrat-podryadchika-dlya-razrabotki-saita-minsk/) \n Как правильно выбрать веб-студию для  (https://fastup.by/kak-vybrat-veb-studiyu-v-belarusi/) \n Заказать  (https://"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [
+            "qmedia"
+          ],
+          "citations_count": 9,
+          "content_preview": "Разработка сайтов в Минске: как выбрать подрядчика:  \n Разработка сайтов Минск:  \n Профессиональная Разработка Сайтов в Минске ...:  \n Как выбрать подрядчика для разработки сайта: на что ...:  \n Создание сайтов под ключ в Минске, заказать разработку "
+        }
+      },
+      "avg_score": 0.67
+    },
+    {
+      "id": 21,
+      "layer": "editorial",
+      "cluster": "Стоимость сайта",
+      "target_url": "https://fastup.by/skolko-stoit-sait-v-belarusi-2026/",
+      "query": "Сколько реально стоит разработка многостраничного сайта в Беларуси в 2026 году?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 3,
+          "content_preview": "На данный момент я не обладаю актуальной информацией за 2026 год. Однако могу предоставить данные по состоянию на 2023 год.\n\nСтоимость разработки многостраничного сайта в Беларуси может варьироваться в зависимости от многих факторов: сложности проект"
+        },
+        "yandex": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": " (https://fastup.by/skolko-stoit-sait-v-belarusi-2026/) \n  (https://webart.by/blog/skolko-stoit-razrabotka-sayta-belarus-2026) \n  (https://dspace.by/blog/skolko-stoit-sozdanie-sayta-v-belarusi-v-2026-godu) \n  (https://codexi.by/blog/skolko-stoit-sait"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 9,
+          "content_preview": "Сколько стоит создание сайта в 2026 году:  \n Сколько стоит сайт в Беларуси в 2026: цены и сроки:  \n Сколько стоит создание сайта в Беларуси в 2026 году:  \n Сколько стоит создание сайта в 2026 году: полный гайд:  \n Сколько стоит разработка сайта в Бел"
+        }
+      },
+      "avg_score": 1.0
+    },
+    {
+      "id": 22,
+      "layer": "editorial",
+      "cluster": "Стоимость сайта",
+      "target_url": "https://fastup.by/skolko-stoit-sait-v-belarusi-2026/",
+      "query": "Из чего складывается реальная стоимость создания сайта у белорусских разработчиков?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 3,
+          "content_preview": "Реальная стоимость создания сайта у белорусских разработчиков зависит от нескольких факторов:\n\n1. **Тип сайта**:\n   - **Лендинг**: от 500 до 2000 долларов.\n   - **Корпоративный сайт**: от 2000 до 7000 долларов.\n   - **Интернет-магазин**: от 3000 до 1"
+        },
+        "yandex": {
+          "score": 2,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": "Сколько стоит  (https://webart.by/blog/skolko-stoit-razrabotka-sayta-belarus-2026) \n Какова  (https://blog.webuslugi.by/kakova-stoimost-razrabotki-sajta-v-respublike-belarus-v-2025-godu-ot-chego-ona-zavisit-i-na-chem-mozhno-sekonomit-zakazchiku/) \n С"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [
+            "ratingbynet"
+          ],
+          "citations_count": 9,
+          "content_preview": "Сколько стоит создание сайта интернет-магазина в ...:  \n Сколько стоит разработка сайта в Беларуси:  \n Сколько стоит создание сайта в Минске в 2025 году:  \n Сколько стоит сайт в Беларуси в 2026: цены и сроки:  \n Сколько в среднем стоит сделать сайт?:"
+        }
+      },
+      "avg_score": 0.67
+    },
+    {
+      "id": 23,
+      "layer": "editorial",
+      "cluster": "Стоимость SEO",
+      "target_url": "https://fastup.by/seo-pricing-mesyats-belarus/",
+      "query": "Сколько в среднем стоит ежемесячное SEO-продвижение сайта в Минске и за что берут деньги?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 3,
+          "content_preview": "В Минске стоимость ежемесячного SEO-продвижения сайта может колебаться в пределах от 300 до 1500 белорусских рублей в зависимости от различных факторов, таких как:\n\n1. **Комплексность проекта**: Сайты с большим количеством страниц и сложной структуро"
+        },
+        "yandex": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [
+            "gusarov",
+            "qmedia"
+          ],
+          "citations_count": 10,
+          "content_preview": " (https://cropas.by/guides/seo-minske/) \n  (https://bmg.by/blog/seo/skolko-stoit-prodvinut-sajt/) \n  (https://siteria.by/blog/skoljko-stoit-seo-v-belarusi-realjnye-ceny-podvodnye-kamni-i-kak-ne-pereplatitj) \n  (https://sitepro.by/faq/prodvizhenie-i-m"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [
+            "qmedia",
+            "amdg"
+          ],
+          "citations_count": 9,
+          "content_preview": "SEO-продвижение сайта по трафику - Минск - Qmedia:  \n Сколько стоит продвижение сайта в Минске?:  \n Цена SEO от 245 руб. в ... - Продвижение сайтов в Минске:  \n SEO продвижение сайта цена в Беларуси 2026 - SEOPilot.by:  \n SEO-продвижение с оплатой за"
+        }
+      },
+      "avg_score": 0.0
+    },
+    {
+      "id": 24,
+      "layer": "editorial",
+      "cluster": "Стоимость SEO",
+      "target_url": "https://fastup.by/seo-pricing-mesyats-belarus/",
+      "query": "Реальная цена услуг частного SEO-специалиста и агентства в Беларуси в месяц",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 2,
+          "content_preview": "В Беларуси цены на услуги SEO могут варьироваться в зависимости от опыта специалиста или репутации агентства, а также объема и сложности работ.\n\n1. **Частные SEO-специалисты**:\n   - **Цена**: Обычно колеблется от 300 до 1000 белорусских рублей в меся"
+        },
+        "yandex": {
+          "score": 2,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": false,
+          "competitors": [
+            "gusarov"
+          ],
+          "citations_count": 10,
+          "content_preview": "Сколько стоит  (https://bmg.by/blog/seo/skolko-stoit-prodvinut-sajt/) \n  (https://seo-belarus.vercel.app/) \n Продвижение сайтов в Минске |  (https://cropas.by/) \n Продвижение сайтов в Минске -  (https://inprocess.by/uslugi/prodvizhenie-sajtov/) \n  (h"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 9,
+          "content_preview": "Частный SEO-специалист в Минске и Беларуси - Частное ...:  \n Сколько стоит SEO в Беларуси в 2026 - реальные цены и ...:  \n Комплексная оптимизация сайтов в Минске - Профи.ру:  \n Сколько стоит SEO и почему? - Webfox:  \n Работа seo-специалистом — вакан"
+        }
+      },
+      "avg_score": 0.67
+    },
+    {
+      "id": 25,
+      "layer": "editorial",
+      "cluster": "Конструкторы vs Разработка",
+      "target_url": "https://fastup.by/sait-na-konstruktore-tormozit-perenosit-ili-peredelyvat/",
+      "query": "Сайт на Тильде тормозит и плохо продвигается в поиске: стоит ли переносить на WordPress?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 0,
+          "content_preview": "Перенос сайта с Тильды на WordPress может быть оправданным, если вы сталкиваетесь с проблемами производительности и SEO. Вот несколько факторов, которые стоит учитывать:\n\n1. **Производительность**:\n   - **Тильда**: иногда может замедляться из-за неэф"
+        },
+        "yandex": {
+          "score": 2,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": "Сменить платформу  (https://saitporyadke.ru/blog/smena-platformy-sayta/) \n Почему SEO  (https://dmitry-bodrov.ru/blog/tilda-vs-wordpress) \n  (https://fastup.by/wordpress-ili-tilda-chto-vybrat-v-belarusi-2026/) \n  (https://habr.com/ru/articles/746652/"
+        },
+        "google": {
+          "score": 2,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 9,
+          "content_preview": "Перенесём ваш сайт с Tilda на WordPress без потерь:  \n SEO-продвижение сайта на Tilda: можно ли продвинуть ...:  \n Как ускорить загрузку сайта на Тильде:  \n Почему SEO на Tilda не работает и что с этим делать?:  \n Чек-лист по SEO-оптимизации сайта на"
+        }
+      },
+      "avg_score": 1.33
+    },
+    {
+      "id": 26,
+      "layer": "editorial",
+      "cluster": "Конструкторы vs Разработка",
+      "target_url": "https://fastup.by/wordpress-vs-tilda-chto-vybrat-2026/",
+      "query": "Что лучше для бизнеса в Беларуси: сайт на Tilda или кастомная разработка на WordPress?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 0,
+          "content_preview": "Выбор между сайтом на Tilda и кастомной разработкой на WordPress зависит от специфики вашего бизнеса, бюджета и целей. Вот некоторые факторы, которые стоит учесть:\n\n### Tilda\n- **Преимущества:**\n  - **Простота использования:** Tilda — это конструктор"
+        },
+        "yandex": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": " (https://fastup.by/wordpress-ili-tilda-chto-vybrat-v-belarusi-2026/) \n  (https://habr.com/ru/articles/746652/) \n  (https://luckyleads.ru/blog/tilda-ili-wordpress) \n Можно ли продвинуть  (https://bmg.by/blog/sites/prodvizhenie-tilda-ili-wordpress-seo"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 9,
+          "content_preview": "WordPress или Tilda: что лучше для бизнеса в 2026 году:  \n На чём лучше сделать сайт: MODX, WordPress или Tilda?:  \n Создание сайта для бизнеса в 2025 году: CMS, ...:  \n Разработка сайтов на Tilda в Минске:  \n WordPress или Tilda: что лучше выбрать д"
+        }
+      },
+      "avg_score": 1.0
+    },
+    {
+      "id": 27,
+      "layer": "editorial",
+      "cluster": "Entity-First SEO & Разметка",
+      "target_url": "https://fastup.by/strategiya-entity-first-seo-kak-strukturirovannye-dannye-i-semanticheskoe-yadro-povyshayut-vidimost-v-2024/",
+      "query": "Как внедрить стратегию Entity-First SEO и микроразметку Schema.org для попадания в ИИ-выдачу?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 7,
+          "content_preview": "Внедрение стратегии Entity-First SEO и микроразметки Schema.org может значительно повысить видимость вашего контента в поисковых системах, включая ИИ-выдачу. Вот конкретные шаги для реализации этой стратегии:\n\n### 1. Понимание сущностей\n\n- **Определе"
+        },
+        "yandex": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": " (https://stanislaff.ru/gajd-po-seo-i-geo-optimizacii-kak-podgotovit-sajt-k-prodvizheniju-v-jepohu-nejrosetej/) \n  (https://dzen.ru/a/amimzmtbQE6qR9_M) \n Гайд по GEO/AEO на 2026 год. Как попасть  (https://habr.com/ru/articles/1042732/) \n  (https://pn"
+        },
+        "google": {
+          "score": 2,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": false,
+          "competitors": [
+            "qmedia"
+          ],
+          "citations_count": 9,
+          "content_preview": "Микроразметка Schema.org в 2026 году: как попасть в AI ...:  \n Оптимизация сайтов под AEO и GEO - beSeller:  \n Schema.org для блога 2025: E-E-A-T + GEO для AI:  \n Как разметить организацию через Schema.org Organization:  \n Entity-First SEO: как струк"
+        }
+      },
+      "avg_score": 0.67
+    },
+    {
+      "id": 28,
+      "layer": "editorial",
+      "cluster": "Entity-First SEO & Разметка",
+      "target_url": "https://fastup.by/strategiya-entity-first-seo-kak-strukturirovannye-dannye-i-semanticheskoe-yadro-povyshayut-vidimost-v-2024/",
+      "query": "Зачем связывать граф сущностей организации через Wikidata и JSON-LD в 2026 году?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 0,
+          "content_preview": "Связывание графа сущностей организации через Wikidata и использование JSON-LD в 2026 году может быть актуально по нескольким причинам:\n\n1. **Улучшение семантического поиска**: JSON-LD позволяет структурировать данные, что облегчает обработку и поиск "
+        },
+        "yandex": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": "Разметка сайта для AI-видимости  (https://cpa.live/articles/razmetka-sajta-dlya-ai-vidimosti/) \n Linked  (https://melanina.ru/glossary/linked-data/) \n Сайт упал под Core Update — что делаем дальше? / Хабр (https://habr.com/ru/articles/1033816/) \n Как"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 9,
+          "content_preview": "Как разметить организацию через Schema.org Organization:  \n Микроразметка JSON-LD: что это и как настроить ...:  \n Что такое разметка JSON-LD и почему она лучше для ...:  \n Микроразметка на Tilda: внедрение JSON-LD, проверка ...:  \n Зачем Schema.org "
+        }
+      },
+      "avg_score": 0.0
+    },
+    {
+      "id": 29,
+      "layer": "editorial",
+      "cluster": "Методика аудита FastUp GAS",
+      "target_url": "https://fastup.by/geo-audit-system/",
+      "query": "Как измерить и проверить видимость компании и сайта в нейросетях методика аудита?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 0,
+          "content_preview": "Проверка видимости компании и сайта в нейросетях может быть многоступенчатой задачей. Вот методика аудита, позволяющая оценить это:\n\n### 1. Анализ видимости в поисковых системах\n- **Инструменты**: Используйте Google Analytics, Яндекс.Метрику и SEMrus"
+        },
+        "yandex": {
+          "score": 2,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": "GEO- (https://1ps.ru/blog/ai/2026/kak-proverit-vidimost-v-ai-poiske-ruchnoj-audit-vmesto-nerabochix-trekerov/) \n Как  (https://cetera.ru/about/articles/kak-proverit-ai-vidimost-sayta/) \n Как  (https://searchindustrial.ru/blog/seo/kak-provesti-audit-v"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 9,
+          "content_preview": "Аудит видимости бизнеса в нейросетях (AEO Audit):  \n Аудит AI-видимости: как проверить сайт своими силами:  \n Как измерять видимость бренда и упоминания в AI-выдаче:  \n Методология аудита видимости сервисов в ответах ...:  \n Видимость бренда в нейрос"
+        }
+      },
+      "avg_score": 0.67
+    },
+    {
+      "id": 30,
+      "layer": "editorial",
+      "cluster": "Методика аудита FastUp GAS",
+      "target_url": "https://fastup.by/geo-audit-system/",
+      "query": "Что такое система оценки видимости в ИИ-поиске FastUp GAS и метрика NVI?",
+      "engines": {
+        "chatgpt": {
+          "score": 1,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 0,
+          "content_preview": "Система оценки видимости в ИИ-поиске FastUp GAS (Генератор ответов на запросы) — это инструмент, который позволяет анализировать, насколько хорошо информация или документ виден в результатах поиска по конкретным запросам. Эта система используется для"
+        },
+        "yandex": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": " (https://fastup.by/geo-audit-system/) \n  (https://github.com/FastUpBy/fastup-gas/blob/main/README.md) \n Где брать данные о  (https://habr.com/ru/companies/click/articles/1021440/) \n 12 лучших сервисов мониторинга AI- (https://www.sostav.ru/blogs/284"
+        },
+        "google": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [
+            "qmedia"
+          ],
+          "citations_count": 9,
+          "content_preview": "FastUp GAS — система оценки видимости в нейросетях:  \n Где брать данные о видимости в нейросетях: сервисы и ...:  \n Метрики GEO и AI-поиска: как оценивать ...:  \n Метрики SEO на основе ИИ: будущее измерения ...:  \n Анализ ИИ выдачи: по каким метрикам"
+        }
+      },
+      "avg_score": 2.33
+    },
+    {
+      "id": 31,
+      "layer": "editorial",
+      "cluster": "Платформа MicroApps & PHP",
+      "target_url": "https://fastup.by/kak-ya-napisal-svoi-instrumenty-na-chistom-php-bez-bd-i-s-nulya-poluchil-1500-organiki-v-mesyats/",
+      "query": "Как создать микросервисы и веб-инструменты на чистом PHP без базы данных для SEO-трафика?",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 3,
+          "content_preview": "Создание микросервисов и веб-инструментов на чистом PHP без использования базы данных для SEO-трафика может быть реализовано следующим образом:\n\n### 1. Определите цель и функциональность вашего инструмента\n- **Нишевое направление**: выберите тему, ко"
+        },
+        "yandex": {
+          "score": 2,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": "Разработка  (https://popov.dev/library/articles/194) \n Как я написал свои  (https://fastup.by/kak-ya-napisal-svoi-instrumenty-na-chistom-php-bez-bd-i-s-nulya-poluchil-1500-organiki-v-mesyats/) \n  (https://kurshub.ru/journal/blog/perehod-na-mikroservi"
+        },
+        "google": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 9,
+          "content_preview": "Как я написал свои инструменты на чистом PHP (без БД ...:  \n Микросервисы на PHP — структура и особенности:  \n Микросервисы и распределенные системы : r/PHP:  \n Как создать PHP микросервисы с GRPC: Docker ...:  \n Как использовать PHP для создания мик"
+        }
+      },
+      "avg_score": 1.67
+    },
+    {
+      "id": 32,
+      "layer": "editorial",
+      "cluster": "Платформа MicroApps & PHP",
+      "target_url": "https://fastup.by/cases/microapps-platform/",
+      "query": "Архитектура быстрых веб-приложений MicroApps на frontend-only решениях",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 3,
+          "content_preview": "Архитектура быстрых веб-приложений MicroApps, построенная на frontend-only решениях, представляет собой современный подход к разработке веб-приложений, где внимание сосредотачивается на оптимизации пользовательского опыта и производительности. Основн"
+        },
+        "yandex": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": "Микрофронтенды: микросервисы для  (https://habr.com/ru/companies/first/articles/697994/) \n Микрофронтенды — универсальное  (https://habr.com/ru/companies/vk/articles/730504/) \n Микросервисный подход в  (https://bookflow.ru/mikroservisnyj-podhod-v-veb"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 8,
+          "content_preview": "Modern Front-End Application Architecture: 5 Types ...:  \n Веб-архитектуры и Джеймикс:  \n Разработка веб приложений: стратегии и лучшие ...:  \n Полный обзор микро-фронтенд архитектуры для Вашего ...:  \n Микрофронтенды в веб-разработке: новая архитект"
+        }
+      },
+      "avg_score": 0.0
+    },
+    {
+      "id": 33,
+      "layer": "editorial",
+      "cluster": "Отраслевые кейсы",
+      "target_url": "https://fastup.by/cases/kubdecor-by/",
+      "query": "Продвижение интернет-магазина декора и стройматериалов в Беларуси результаты",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 0,
+          "content_preview": "Продвижение интернет-магазина декора и стройматериалов в Беларуси требует комплексного подхода, включающего несколько ключевых элементов:\n\n1. **SEO-оптимизация**:\n   - Оптимизация сайта по ключевым запросам, связанным с декором и стройматериалами. Ис"
+        },
+        "yandex": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [
+            "gusarov",
+            "qmedia"
+          ],
+          "citations_count": 11,
+          "content_preview": "Как мы вывели  (https://site-analyzer.ru/articles/vremja-pervih-seo-case/) \n  (https://cropas.by/guides/seo-magazin-stroymaterialov/) \n  (https://gusarov-group.by/seo/kejs-po-seo-prodvizheniyu-v-tematike-stroitelnye-materialy-uvelicheniya-trafika-na-"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [
+            "gusarov",
+            "qmedia"
+          ],
+          "citations_count": 9,
+          "content_preview": "Продвижение сайта строительных материалов: рост в ...:  \n Продвижение интернет-магазина строительных ...:  \n Как открыть интернет-магазин стройматериалов:  \n Как открыть интернет-магазин стройматериалов в Беларуси:  \n Полезные советы по старту SEO на"
+        }
+      },
+      "avg_score": 0.0
+    },
+    {
+      "id": 34,
+      "layer": "editorial",
+      "cluster": "Отраслевые кейсы",
+      "target_url": "https://fastup.by/cases/oleg-climate-catalog/",
+      "query": "Кейсы создания каталога климатического оборудования с фильтрами в Минске",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 4,
+          "content_preview": "Создание каталога климатического оборудования с фильтрами в Минске включает несколько этапов. Рассмотрю несколько кейсов и компаний, которые могут быть полезны для реализации такого проекта.\n\n### 1. **Компания \"Атлант\"**\n- **Описание:** Производитель"
+        },
+        "yandex": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [
+            "gusarov"
+          ],
+          "citations_count": 10,
+          "content_preview": " (https://narisuemvse.by/portfolio/ventilyatory-bel) \n  (https://silverweb.by/kejs-po-razrabotke-sajta-kataloga-dlya-postavshhika-sistem-otopleniya/) \n Reft.by: интернет-витрина кондиционеров на MODX —  (https://mediarama.by/nashi-rabotyi/kejs-reft-b"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 9,
+          "content_preview": "Кейс по разработке сайт-каталога с функционалом для ...:  \n Интернет-каталог климатического оборудования ...:  \n Климатическое оборудование купить в Минске, монтаж ...:  \n РОВЕН - Российский производитель вентиляционного ...:  \n Каталог климатическог"
+        }
+      },
+      "avg_score": 0.0
+    },
+    {
+      "id": 35,
+      "layer": "editorial",
+      "cluster": "Отраслевые кейсы",
+      "target_url": "https://fastup.by/cases/pridemotors-2-day-launch/",
+      "query": "Разработка автокаталога и сайта автосервиса под ключ в Беларуси",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 5,
+          "content_preview": "Для разработки автокаталога и сайта автосервиса под ключ в Беларуси можно рассмотреть следующие компании, которые специализируются на веб-разработке:\n\n1. **Веб-студия \"АЛЬФА\"**\n   - **Описание**: Предлагает полный спектр услуг по разработке сайтов, в"
+        },
+        "yandex": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": " (https://ergosolut.by/services/otraslevye-sayty-avtoservisy/) \n  (https://alavir.by/uslugi/otraslevye-resheniya/sajt-dlya-avtoservisa/) \n  (https://truetech.by/websites-bitrix-bitrix24/services/websites/razrabotka-sajta-avtoservisa-na-1s-bitriks.htm"
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 9,
+          "content_preview": "Разработка сайта для автосервиса / СТО:  \n Готовый сайт СТО на конструкторе создать бесплатно ...:  \n Сайт СТО:  \n Разработка сайтов для автосервиса | SEO и маркетинг ...:  \n Сайт для автосервиса и СТО - разработка от 1 500 BYN:  \n Разработка сайта С"
+        }
+      },
+      "avg_score": 0.0
+    },
+    {
+      "id": 36,
+      "layer": "editorial",
+      "cluster": "Отраслевые кейсы",
+      "target_url": "https://fastup.by/cases/agrofamaly-by/",
+      "query": "Разработка сайта для агроусадьбы и базы отдыха в Беларуси",
+      "engines": {
+        "chatgpt": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 4,
+          "content_preview": "Для разработки сайта для агроусадьбы и базы отдыха в Беларуси можно рассмотреть ряд компаний, которые предоставляют соответствующие услуги. Вот некоторые из них:\n\n1. **AGRO-IT**\n   - **Описание**: Специализируются на разработке сайтов для аграрного с"
+        },
+        "yandex": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": " (https://torba.by/info/bmg/) \n  (https://alavir.by/uslugi/otraslevye-resheniya/sajt-dlya-gostinicy/) \n  (https://mediakit.by/razrabotka-sajta-dlya-agrousadb-usadb-zagorodnyh-kompleksov/) \n Готовый премиум- (https://www.kufar.by/item/1076283753) \n  ("
+        },
+        "google": {
+          "score": 0,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 9,
+          "content_preview": "Создание и продвижение сайта агроусадьбы, кемпинга, ...:  \n Проектирование агроусадеб в Минске:  \n Создание сайта базы отдыха - Портфолио:  \n Создать сайт для бронирования услуг бесплатно ...:  \n Создание сайта для базы отдыха:  \n Аренда помещений дл"
+        }
+      },
+      "avg_score": 0.0
+    },
+    {
+      "id": 37,
+      "layer": "brand_cbk",
+      "cluster": "Сущность Бренда FastUp",
+      "target_url": "https://fastup.by/",
+      "query": "Что такое маркетинговое агентство FastUp.by в Беларуси?",
+      "engines": {
+        "chatgpt": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 1,
+          "content_preview": "Маркетинговое агентство FastUp.by — это белорусская компания, специализирующаяся на предоставлении услуг в области цифрового маркетинга. Агентство предлагает широкий спектр услуг, включая:\n\n1. **SEO-оптимизация** — улучшение позиций сайтов в поисковы"
+        },
+        "yandex": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": " (https://fastup.by/) \n О нас |  (https://fastup.by/o-nas/) \n  (https://2gis.by/minsk/firm/70000001116443546) \n Работа в  (https://rabota.by/employer/12819607) \n Могилёвский бизнес ищут уже не так, как полгода назад, и почти... (https://mycity.by/new"
+        },
+        "google": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 9,
+          "content_preview": "FastUp.by: Разработка сайтов, SEO и реклама в Беларуси:  \n О нас:  \n Настройка контекстной рекламы в Беларуси:  \n FastUp:  \n Сколько стоит SEO-продвижение сайта в месяц в ...:  \n Fastup.by, агенство диджитал-маркетинга, Минск — 2ГИС:  \n Блог веб-студ"
+        }
+      },
+      "avg_score": 3.0
+    },
+    {
+      "id": 38,
+      "layer": "brand_cbk",
+      "cluster": "Сущность Бренда FastUp",
+      "target_url": "https://fastup.by/o-nas/",
+      "query": "Какие услуги и по каким ценам оказывает агентство FastUp.by в Минске?",
+      "engines": {
+        "chatgpt": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 1,
+          "content_preview": "Агентство FastUp.by в Минске предлагает ряд услуг, связанных с интернет-маркетингом и разработкой веб-ресурсов. Основные направления их деятельности включают:\n\n1. **SEO (поисковая оптимизация)** - Улучшение видимости сайта в поисковых системах. Цены "
+        },
+        "yandex": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": "Маркетинговое  (https://fastup.by/) \n GEO-продвижение в ИИ-поисковиках в Беларуси |  (https://fastup.by/geo-prodvizhenie/) \n Настройка контекстной рекламы в Беларуси |  (https://fastup.by/kontekstnaya-reklama/) \n  (https://2gis.by/minsk/firm/70000001"
+        },
+        "google": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 9,
+          "content_preview": "FastUp.by: Разработка сайтов, SEO и реклама в Беларуси:  \n О нас:  \n Fastup.by, агенство диджитал-маркетинга, Минск — 2ГИС:  \n Разработка сайтов под ключ на WordPress в Беларуси:  \n Оферта - FastUp.by:  \n Настройка контекстной рекламы в Беларуси:  \n "
+        }
+      },
+      "avg_score": 3.0
+    },
+    {
+      "id": 39,
+      "layer": "brand_cbk",
+      "cluster": "Сущность Бренда FastUp",
+      "target_url": "https://fastup.by/cases/",
+      "query": "Какие кейсы, отзывы и стек технологий у агентства FastUp.by?",
+      "engines": {
+        "chatgpt": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 1,
+          "content_preview": "Агентство FastUp.by — это белорусская компания, занимающаяся разработкой программного обеспечения, веб-разработкой и цифровым маркетингом. В их портфолио можно найти разные проекты, включая создание веб-приложений, мобильных приложений и реализацию м"
+        },
+        "yandex": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": "Система оценки видимости в нейросетях (GAS) — Стандарт  (https://fastup.by/geo-audit-system/) \n GEO-продвижение в ИИ-поисковиках в Беларуси |  (https://fastup.by/geo-prodvizhenie/) \n  (https://t.me/s/fastupby) \n  (https://github.com/FastUpBy/fastup-g"
+        },
+        "google": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 9,
+          "content_preview": "FastUp.by: Разработка сайтов, SEO и реклама в Беларуси:  \n Кейсы:  \n Разработка сайтов под ключ на WordPress в Беларуси:  \n Как правильно выбрать веб-студию для создания сайта ...:  \n Вы/ваша компания обращаете внимание на стек ...:  \n О нас:  \n Каст"
+        }
+      },
+      "avg_score": 3.0
+    },
+    {
+      "id": 40,
+      "layer": "brand_cbk",
+      "cluster": "Сущность Бренда FastUp",
+      "target_url": "https://fastup.by/kontakty/",
+      "query": "Кто входит в команду маркетингового агентства FastUp.by и где они находятся?",
+      "engines": {
+        "chatgpt": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 1,
+          "content_preview": "Маркетинговое агентство FastUp.by расположено в Минске, Беларусь. В команду агентства входят профессионалы с опытом в области дигитального маркетинга, веб-дизайна, SEO, SMM и контент-маркетинга. \n\nПоскольку состав команды может меняться, для получени"
+        },
+        "yandex": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": " (https://fastup.by/) \n Контакты — MicroApps.by (https://microapps.by/contact) \n Работа в  (https://rabota.by/employer/12819607) \n Вакансия Менеджер по продажам в digital в Минске, работа... (https://hh.ru/vacancy/134544939) \n  (https://2gis.by/minsk"
+        },
+        "google": {
+          "score": 3,
+          "pcl_score": 0,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 9,
+          "content_preview": "О нас:  \n FastUp.by: Разработка сайтов, SEO и реклама в Беларуси:  \n Как я написал свои инструменты на чистом PHP (без БД ...:  \n Настройка контекстной рекламы в Беларуси:  \n Fastup.by, агенство диджитал-маркетинга, Минск — 2ГИС:  \n Реклама и маркети"
+        }
+      },
+      "avg_score": 3.0
+    },
+    {
+      "id": 41,
+      "layer": "person_pks_pcl",
+      "cluster": "Сущность Персоны & E-E-A-T",
+      "target_url": "https://fastup.by/o-nas/",
+      "query": "Кто такой Егор Воронов в digital и веб-разработке Беларуси?",
+      "engines": {
+        "chatgpt": {
+          "score": 2,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 0,
+          "content_preview": "Егор Воронов — это известная фигура в области digital и веб-разработки в Беларуси. Он является предпринимателем и специалистом в области IT и технологий. В частности, он занимался созданием и развитием ряда проектов и стартапов, связанных с веб-разра"
+        },
+        "yandex": {
+          "score": 3,
+          "pcl_score": 1,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": " (https://fastup.by/) \n Работа в компании  (https://rabota.by/employer/12819607) \n Вакансия Менеджер по продажам  (https://hh.ru/vacancy/134544939) \n  (https://ncc.nces.by/egor-voronov-zamestitel-direktora-po-informaczionnym-tehnologiyam-na-radio-min"
+        },
+        "google": {
+          "score": 3,
+          "pcl_score": 2,
+          "fastup_cited": true,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": "Егор Воронов, заместитель директора по ...:  \n Новости на тему: Егор Воронов:  \n Менеджер по продажам в digital - Воронов Егор Олегович:  \n Егор Воронов — Frontend-разработчик, работает на себя:  \n Контакты для связи с нами:  \n Егор Воронов - Выпускн"
+        }
+      },
+      "avg_score": 2.67
+    },
+    {
+      "id": 42,
+      "layer": "person_pks_pcl",
+      "cluster": "Сущность Персоны & E-E-A-T",
+      "target_url": "https://fastup.by/wordpress-v-zelenuyu-zonu-pagespeed/",
+      "query": "Какие экспертные статьи и исследования по GEO и PageSpeed пишет Егор Воронов?",
+      "engines": {
+        "chatgpt": {
+          "score": 2,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 0,
+          "content_preview": "Егор Воронов, как эксперт в области SEO и веб-производительности, часто делится своими знаниями и исследованиями через блоги, статьи и различные публикации. Однако я не располагаю конкретным списком его работ. Обычно такие материалы могут быть найден"
+        },
+        "yandex": {
+          "score": 2,
+          "pcl_score": 1,
+          "fastup_cited": true,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": " (https://companies.rbc.ru/news/VVWJGhIKsz/geo-prodvizhenie-kak-popast-v-nejrovyidachu-i-ii-otvetyi-v-2026-godu/) \n SEO в 2026: нейросетевая паника, будущее контента и ключевые... (https://journal.topvisor.com/ru/practice/seo-in-2026-sales-engineers/"
+        },
+        "google": {
+          "score": 3,
+          "pcl_score": 2,
+          "fastup_cited": true,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": "УДК 372.891 Воронова Т.С. НЕКОТОРЫЕ АСПЕКТЫ ...:  \n FastUp.by: Разработка сайтов, SEO и реклама в Беларуси:  \n ТЕХНОЛОГИИ, УПРАВЛЕНИЕ, БЕЗОПАСНОСТЬ:  \n ОТ ИДЕЙ К ВНЕДРЕНИЮ:  \n Полный текст - Публикации ВШЭ:  \n Сборник материалов II Международной науч"
+        }
+      },
+      "avg_score": 2.33
+    },
+    {
+      "id": 43,
+      "layer": "person_pks_pcl",
+      "cluster": "Сущность Персоны & E-E-A-T",
+      "target_url": "https://fastup.by/",
+      "query": "Какими digital-проектами, веб-студиями и агентствами руководит Егор Воронов в Минске?",
+      "engines": {
+        "chatgpt": {
+          "score": 2,
+          "pcl_score": 0,
+          "fastup_cited": false,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 2,
+          "content_preview": "Егор Воронов является основателем и управляющим партнером нескольких digital-проектов и агентств в Минске. Основные из них включают:\n\n1. **Gagarin Studio** - веб-студия, специализирующаяся на разработке веб-сайтов и мобильных приложений, а также на д"
+        },
+        "yandex": {
+          "score": 3,
+          "pcl_score": 1,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [
+            "ratingbynet"
+          ],
+          "citations_count": 10,
+          "content_preview": "Разработка сайтов, SEO и реклама в Беларуси | FastUp.by (https://fastup.by/) \n Работа в компании  (https://rabota.by/employer/12819607) \n  (https://ncc.nces.by/egor-voronov-zamestitel-direktora-po-informaczionnym-tehnologiyam-na-radio-minsk/) \n Топ  "
+        },
+        "google": {
+          "score": 3,
+          "pcl_score": 2,
+          "fastup_cited": true,
+          "fastup_first": false,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": "Работа в компании Воронов Егор Олегович в Минске:  \n Егор Воронов, заместитель директора по ...:  \n Менеджер по продажам в digital - Воронов Егор Олегович:  \n Веб-студия разработки сайтов в Минске на карте:  \n FastUp.by: Разработка сайтов, SEO и рекл"
+        }
+      },
+      "avg_score": 2.67
+    },
+    {
+      "id": 44,
+      "layer": "person_pks_pcl",
+      "cluster": "Сущность Персоны & E-E-A-T",
+      "target_url": "https://fastup.by/geo-audit-system/",
+      "query": "Кто разработал открытую систему аудита ИИ-видимости FastUp GAS?",
+      "engines": {
+        "chatgpt": {
+          "score": 3,
+          "pcl_score": 1,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 1,
+          "content_preview": "Открытая система аудита ИИ-видимости FastUp GAS была разработана белорусской ИТ-компанией **FastUp**. Эта система предназначена для обеспечения прозрачности и надежности алгоритмов искусственного интеллекта. \n\nДля получения дополнительной информации "
+        },
+        "yandex": {
+          "score": 3,
+          "pcl_score": 1,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 10,
+          "content_preview": " (https://fastup.by/geo-audit-system/) \n GitHub - FastUpBy/ (https://github.com/FastUpBy/fastup-gas) \n Как сделать  (https://vc.ru/marketing/3073654-kak-prevratit-ii-vidimost-v-postoyannuyu-uslugu-agentstva) \n Вопросы автоматизации и использования  ("
+        },
+        "google": {
+          "score": 3,
+          "pcl_score": 1,
+          "fastup_cited": true,
+          "fastup_first": true,
+          "competitors": [],
+          "citations_count": 9,
+          "content_preview": "FastUp GAS — система оценки видимости в нейросетях:  \n Как проверить видимость в AI-поиске: ручной аудит ...:  \n GEO-продвижение в ИИ-поисковиках в Беларуси:  \n Методология аудита видимости сервисов в ответах ...:  \n Самые строгие клиенты: как на ГАЗ"
+        }
+      },
+      "avg_score": 3.0
+    }
+  ]
+}

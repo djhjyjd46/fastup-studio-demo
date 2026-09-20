@@ -1,0 +1,18 @@
+{
+  "fastup-git-sync": {
+    "PreInvocation": [
+      {
+        "type": "command",
+        "command": "python scripts/git_sync.py start --client antigravity",
+        "timeout": 30
+      }
+    ],
+    "Stop": [
+      {
+        "type": "command",
+        "command": "python scripts/git_sync.py stop --client antigravity",
+        "timeout": 30
+      }
+    ]
+  }
+}

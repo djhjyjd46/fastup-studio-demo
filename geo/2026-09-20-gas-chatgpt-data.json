@@ -1,0 +1,364 @@
+{
+  "version": "1.4.4",
+  "timestamp": "2026-09-20T13:17:46.289195",
+  "target": {
+    "domain": "fastup.by",
+    "brand": "fastup",
+    "person": "егор воронов"
+  },
+  "non_branded_scores": [
+    {
+      "query": "Посоветуй веб-студию в Беларуси",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": true,
+      "organic_rank": 8,
+      "is_gap": true,
+      "sources": [
+        "https://www.google.com/maps/search/Eskviz%2C+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C+%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C?utm_source=openai",
+        "https://www.google.com/maps/search/%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F+%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D1%8F+%D0%9B%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%2C+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C+%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C?utm_source=openai",
+        "https://www.google.com/maps/search/DYTRI%2C+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C+%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C?utm_source=openai"
+      ]
+    },
+    {
+      "query": "Лучшее агентство по разработке сайтов в Минске",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://whale.by/?utm_source=openai",
+        "https://mediasol.by/?utm_source=openai",
+        "http://beltechsoft.by/?utm_source=openai"
+      ]
+    },
+    {
+      "query": "Кому заказать сайт в Беларуси",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": []
+    },
+    {
+      "query": "Топ SEO-агентств Беларуси",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://www.pro-marketing.by/prestizhnaya-naczionalnaya-premiya-belarusi-rejting-bajneta-obyavila-laureatov-2023-goda.html?utm_source=openai",
+        "https://ratingruneta.ru/seo/belarus/2023/?utm_source=openai",
+        "https://ratingruneta.ru/seo/2023/belarus/high/?utm_source=openai"
+      ]
+    },
+    {
+      "query": "Кто в Беларуси делает GEO-оптимизацию под нейросети",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://www.google.com/maps/search/aiai.by%2C+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C+%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C?utm_source=openai",
+        "https://www.google.com/maps/search/Siteria.BY%2C+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C+%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C?utm_source=openai",
+        "https://www.google.com/maps/search/Linnovation.ai%2C+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C+%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C?utm_source=openai"
+      ]
+    },
+    {
+      "query": "Кто занимается оптимизацией сайта под ChatGPT и Perplexity в Минске",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://siteria.by/?id=geo&utm_source=openai",
+        "https://minsk.webseed.ru/services/geo-prodvizhenie-sayta-v-ai?utm_source=openai",
+        "https://www.rdn.by/services/geo/optimizaciya-pod-ii-agentov?utm_source=openai"
+      ]
+    },
+    {
+      "query": "Где заказать SEO-аудит сайта в Беларуси и что в него входит",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://www.google.com/maps/search/Scalia%2C+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C+%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C?utm_source=openai",
+        "https://www.google.com/maps/search/Vadzim.by%2C+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C+%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C?utm_source=openai",
+        "https://www.google.com/maps/search/PRAEVO%2C+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C+%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C?utm_source=openai"
+      ]
+    },
+    {
+      "query": "Кто настроит контекстную рекламу для B2B в Беларуси",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": []
+    },
+    {
+      "query": "Агентство для комплексного ведения маркетинга малого бизнеса в Минске",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://razam.bz/?utm_source=openai",
+        "http://fcb.by/?utm_source=openai",
+        "https://chr.by/?utm_source=openai"
+      ]
+    },
+    {
+      "query": "Кто разработает интернет-магазин на заказ в Беларуси, не на конструкторе",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": []
+    },
+    {
+      "query": "Веб-студия, которая использует ИИ в своих процессах, Беларусь",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://www.google.com/maps/search/Forkdom+Solutions%2C+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C+%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C?utm_source=openai",
+        "https://www.google.com/maps/search/SiteLab%2C+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C+%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C?utm_source=openai",
+        "https://www.google.com/maps/search/ANYMA%2C+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C+%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C?utm_source=openai"
+      ]
+    },
+    {
+      "query": "Кастомная разработка сайта вместо Tilda и конструкторов — кто делает в Беларуси",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://whale.by/?utm_source=openai",
+        "https://web-solutions.by/?utm_source=openai",
+        "https://dytri.com/?utm_source=openai"
+      ]
+    },
+    {
+      "query": "Студия, которая делает сайт сразу с технической SEO-оптимизацией, Минск",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://www.google.com/maps/search/ITKEY%2C+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C+%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C?utm_source=openai",
+        "https://www.google.com/maps/search/Ariol%2C+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C+%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C?utm_source=openai",
+        "https://www.google.com/maps/search/%D0%91%D0%B5%D0%BB%D1%82%D0%B5%D1%85%D1%81%D0%BE%D1%84%D1%82%2C+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C+%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C?utm_source=openai"
+      ]
+    },
+    {
+      "query": "Кто в Беларуси честно работает по SEO без гарантий топ-1",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": true,
+      "organic_rank": 1,
+      "is_gap": true,
+      "sources": []
+    },
+    {
+      "query": "Страницы сайта выпали из индекса Google — что делать",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": []
+    },
+    {
+      "query": "Почему нейросети не показывают мой сайт в ответах",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": []
+    },
+    {
+      "query": "Сайт на конструкторе тормозит и плохо ранжируется — переносить или переделывать",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": true,
+      "organic_rank": 1,
+      "is_gap": true,
+      "sources": []
+    },
+    {
+      "query": "Как проверить, видит ли ChatGPT мой сайт",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": []
+    },
+    {
+      "query": "Нужно ли SEO, если есть контекстная реклама",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": []
+    },
+    {
+      "query": "Сколько стоит разработка сайта в Беларуси в 2026 году",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://webart.by/blog/skolko-stoit-razrabotka-sayta-belarus-2026?utm_source=openai",
+        "https://webart.by/blog/skolko-stoit-razrabotka-sayta-belarus-2026?utm_source=openai",
+        "https://webart.by/blog/skolko-stoit-razrabotka-sayta-belarus-2026?utm_source=openai"
+      ]
+    },
+    {
+      "query": "Сколько стоит SEO-продвижение в месяц в Беларуси",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://muraviev.by/blog/seo-prodvizhenie-v-belarusi-v-2026-godu-kto-realno-vlijaet-na-rost-biznesa/?utm_source=openai",
+        "https://mostly.by/ceni/?utm_source=openai"
+      ]
+    },
+    {
+      "query": "Как выбрать веб-студию и не нарваться на плохого подрядчика",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": []
+    },
+    {
+      "query": "Через сколько месяцев будет результат от SEO",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": []
+    },
+    {
+      "query": "Что входит в SEO-продвижение сайта",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": []
+    },
+    {
+      "query": "Кто делает сайты для клининговых компаний в Беларуси",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": [
+        "https://www.google.com/maps/search/DYTRI%2C+%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D0%B5%D0%B2%2C+%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C?utm_source=openai",
+        "https://www.google.com/maps/search/MY+LAND%2C+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C+%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C?utm_source=openai",
+        "https://www.google.com/maps/search/%D0%92%D0%B5%D0%B1-%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F+%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D1%8F+%D0%9B%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%2C+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%2C+%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C?utm_source=openai"
+      ]
+    },
+    {
+      "query": "Продвижение сайта мебельного производства в Беларуси",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": []
+    },
+    {
+      "query": "Сайт и реклама для B2B-услуг в Минске",
+      "score": 0,
+      "is_cited": false,
+      "in_organic_top10": false,
+      "organic_rank": null,
+      "is_gap": false,
+      "sources": []
+    }
+  ],
+  "brand_scores": [
+    {
+      "query": "Что такое компания FastUp в Беларуси?",
+      "score": 2,
+      "text_snippet": "Компания FastUp.by, расположенная в Могилёве, Беларусь, предоставляет услуги в области цифрового маркетинга, включая разработку сайтов, SEO-продвижени"
+    },
+    {
+      "query": "Какие услуги оказывает агентство FastUp.by?",
+      "score": 2,
+      "text_snippet": "Агентство FastUp.by предоставляет комплексные digital-маркетинговые услуги для бизнеса в Беларуси. Основные направления их деятельности включают:\n\n- *"
+    },
+    {
+      "query": "Сколько стоят услуги разработки и SEO-продвижения у FastUp?",
+      "score": 3,
+      "text_snippet": "Компания FastUp.by предлагает следующие услуги с открытыми входными ценами:\n\n**Разработка сайтов:**\n- **Лендинг:** от 1 100 BYN\n- **Корпоративный сайт"
+    },
+    {
+      "query": "Какие отзывы, кейсы и репутация у FastUp.by?",
+      "score": 3,
+      "text_snippet": "К сожалению, в доступных источниках нет информации о компании или сервисе с названием \"FastUp.by\". Возможно, вы имели в виду \"FastUp.com\" или \"Fast-Up"
+    }
+  ],
+  "person_scores": [
+    {
+      "query": "Кто такой Егор Воронов в сфере интернет-маркетинга в Беларуси?",
+      "score": 2,
+      "text_snippet": "Егор Воронов — основатель и технический директор маркетингового агентства FastUp.by, расположенного в Могилёве, Беларусь. Он специализируется на разра"
+    },
+    {
+      "query": "Какими проектами и разработками известен специалист Егор Воронов?",
+      "score": 2,
+      "text_snippet": "Егор Воронов — основатель и технический директор маркетингового агентства FastUP (fastup.by). Он специализируется на разработке быстрых и эффективных "
+    },
+    {
+      "query": "Кто разработал открытый стандарт и систему GEO-аудита FastUp GAS?",
+      "score": 0,
+      "text_snippet": "Открытый стандарт и систему GEO-аудита FastUp GAS разработала компания \"Базальт Консалтинг\". این система предназначена для управления данными и контро"
+    },
+    {
+      "query": "Какие экспертные статьи и исследования публикует Егор Воронов?",
+      "score": 1,
+      "text_snippet": "Егор Воронов — белорусский хоккеист, выступающий за команду «Локомотив» в Betera-Экстралиге. Он активно делится своими мыслями и анализом хоккейных ма"
+    }
+  ],
+  "pcl_score": 1,
+  "scg_details": {
+    "total_queries": 27,
+    "top10_organic_count": 3,
+    "gap_count": 3,
+    "mode": "verified_serp"
+  },
+  "metrics": {
+    "NVI": 0.0,
+    "CBK": 83.3,
+    "PKS": 41.7,
+    "PCL": 1,
+    "SCG": 100.0
+  },
+  "engine": "chatgpt"
+}
